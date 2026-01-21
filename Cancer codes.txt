@@ -1,0 +1,1242 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+724791000006119	40000	B21	B21..00	Malignant tumour of larynx	363429002	482656014	32
+289424013	50000	B550	B550.00	Malignant neoplasm of head, neck and face	188353002	289424013	32
+721311000006114	40000	B01	B01..00	Malignant tumour of tongue	363375006	482546018	32
+721351000006110	30000	B060	B060.00	Malignant tumour of tonsil	363393007	482586014	32
+723501000006117	9000	B020	B020.00	Malignant tumour of parotid gland	363379000	482554016	32
+406052010	7000	B0	B0...00	Malignant neoplasm of lip, oral cavity and pharynx	271323007	406052010	32
+288450015	2000	B05	B05..00	Malignant neoplasm of other and unspecified parts of mouth	363505006	482796019	32
+288573014	2000	B0z0	B0z0.00	Malignant neoplasm of pharynx unspecified	363507003	482800013	32
+288807015	5000	B21z	B21z.00	Malignant neoplasm of larynx NOS	363429002	482656014	32
+725611000006117	5000	B04	B04..00	Malignant neoplasm of floor of mouth	363385007	2969212012	32
+724891000006113	2000	B00	B00..00	Malignant neoplasm of lip	363348004	482495016	32
+380095017	2000	B0-1	B0...11	Carcinoma of lip, oral cavity and pharynx	255069008	380095017	32
+723571000006111	10000	B06	B06..00	Malignant tumour of oropharynx	363392002	482583018	32
+288582015	3000	B0zz	B0zz.00	Malignant neoplasm of lip, oral cavity and pharynx NOS	271323007	406052010	32
+288522018	7000	B07	B07..00	Malignant neoplasm of nasopharynx	187692001	288522018	32
+288794010	4000	B210	B210.00	Malignant neoplasm of glottis	187841006	288794010	32
+724781000006117	3000	B0z2	B0z2.00	Malignant neoplasm of laryngopharynx	363399006	1228533018	32
+288797015	7000	B211	B211.00	Malignant neoplasm of supraglottis	187842004	288797015	32
+1228510019	3000	B02	B02..00	Malignant neoplasm of major salivary glands	363378008	1228510019	32
+1228552012	1000	B200	B200.00	Malignant neoplasm of nasal cavities	363422006	1228552012	32
+727381000006110	9000	B010	B010.00	Malignant tumour of base of tongue	363376007	482549013	32
+725241000006116	4000	B08	B08..00	Malignant neoplasm of hypopharynx	363399006	482598016	32
+721621000006110	3000	B053	B053.00	Malignant neoplasm of soft palate	363388009	482575012	32
+403771011	600	B00-1	B00..11	Carcinoma of lip	269515006	403771011	32
+289429015	2000	B5504	B550400	Malignant tumour of neck	363489000	482765011	32
+721361000006112	3000	B061	B061.00	Malignant neoplasm of tonsillar fossa	363394001	482587017	32
+288435012	2000	B01z	B01z.00	Malignant neoplasm of tongue NOS	363375006	482546018	32
+725861000006118	4000	B03	B03..00	Malignant neoplasm of gum	363382005	482560016	32
+288478019	3000	B060z	B060z00	Malignant neoplasm tonsil NOS	363393007	482585013	32
+288474017	2000	B05z	B05z.00	Malignant neoplasm of mouth NOS	363505006	482796019	32
+727151000006117	1000	B050	B050.00	Malignant neoplasm of cheek mucosa	363386008	482571015	32
+722421000006115	1000	B081	B081.00	Malignant neoplasm of pyriform sinus	363401000	482602019	32
+1228513017	1000	B021	B021.00	Malignant neoplasm of submandibular gland	363380002	1228513017	32
+724881000006110	500	B016	B016.00	Malignant neoplasm of lingual tonsil	363377003	482550013	32
+288802014	800	B2133	B213300	Malignant neoplasm of thyroid cartilage	187846001	288802014	32
+725101000006111	800	B052	B052.00	Malignant neoplasm of hard palate	363387004	482573017	32
+289426010	300	B5501	B550100	Carcinoma of cheek	447949005	2900962011	32
+451428019	1000	B215	B215.00	Malignant neoplasm of epiglottis NOS	187842004	288796012	32
+724641000006117	2000	B202	B202.00	Malignant neoplasm of maxillary sinus	363425008	482648011	32
+727561000006112	1000	B050-1	B050.11	Malignant neoplasm of buccal mucosa	363386008	482571015	32
+288806012	700	B21y	B21y.00	Malignant neoplasm of larynx, other specified site	363429002	482656014	32
+289427018	700	B5502	B550200	Malignant neoplasm of nose	1090251000000105	2731361000000116	32
+289425014	500	B5500	B550000	Malignant tumour of head and neck	255056009	380072014	32
+724761000006110	2000	B213	B213.00	Malignant neoplasm of laryngeal cartilage	363431006	482660012	32
+288518011	700	B06z	B06z.00	Malignant neoplasm of oropharynx NOS	363392002	482583018	32
+288449015	1000	B04z	B04z.00	Malignant tumour of floor of mouth	363385007	482570019	32
+722541000006111	800	B056	B056.00	Malignant neoplasm of retromolar area	363391009	482581016	32
+288546013	1000	B0720	B072000	Malignant neoplasm of pharyngeal recess	187697007	288546013	32
+1228553019	800	B203	B203.00	Malignant neoplasm of ethmoid sinus	363426009	1228553019	32
+288532013	600	B0711	B071100	Malignant neoplasm of pharyngeal tonsil	187694000	288532013	32
+288564018	1000	B07z	B07z.00	Malignant tumour of nasopharynx	187692001	288526015	32
+288506019	300	B064	B064.00	Malignant neoplasm of anterior epiglottis	187681002	288506019	32
+288419017	700	B012	B012.00	Malignant neoplasm of tongue, tip and lateral border	187637005	288419017	32
+288443019	400	B040	B040.00	Malignant neoplasm of anterior portion of floor of mouth	187652003	288443019	32
+288485015	80	B0620	B062000	Malignant neoplasm of faucial pillar	187675005	288485015	32
+729591000006114	200	B0z	B0z..00	Malig neop other/ill-defined sites lip, oral cavity, pharynx	271323007	406052010	32
+719021000006111	80	B204	B204.00	Malignant neoplasm of frontal sinus	363427000	482652011	32
+289431012	100	B550z	B550z00	Malignant neoplasm of head, neck and face NOS	188353002	289424013	32
+721041000006111	500	B054	B054.00	Malignant neoplasm of uvula	363389001	482577016	32
+288473011	100	B05y	B05y.00	Malignant neoplasm of other specified mouth parts	363505006	482796019	32
+724311000006111	300	B031	B031.00	Malignant neoplasm of lower gum	363384006	482567018	32
+288571011	900	B08z	B08z.00	Malignant tumour of hypopharynx	363399006	482598016	32
+721871000006110	900	B212	B212.00	Malignant neoplasm of subglottis	363430007	482658010	32
+288404018	30	B006	B006.00	Malignant neoplasm of overlapping lesion of lip	187624007	288404018	32
+288776016	300	B200z	B200z00	Malignant neoplasm of nasal cavities NOS	363422006	482642012	32
+289428011	700	B5503	B550300	Malignant neoplasm of jaw	1090921000000106	2732721000000117	32
+288354011	100	B0010	B001000	Malignant neoplasm of lower lip, external	187604008	288354011	32
+288469013	500	B055	B055.00	Malignant tumour of palate	363390005	482579018	32
+288516010	200	B06y	B06y.00	Malignant neoplasm of oropharynx, other specified sites	363392002	482583018	32
+723031000006117	900	B080	B080.00	Malignant neoplasm of postcricoid region	363400004	482599012	32
+1219533011	70	B042	B042.00	Malignant neoplasm, overlapping lesion of floor of mouth	109830000	1219533011	32
+723801000006115	300	B0zy	B0zy.00	Malignant neoplasm of other sites lip, oral cavity, pharynx	271323007	406052010	32
+288800018	300	B2131	B213100	Malignant neoplasm of cricoid cartilage	187844003	288800018	32
+721961000006111	100	B2002	B200200	Malignant neoplasm of septum of nose	363423001	482644013	32
+288486019	400	B062	B062.00	Malignant neoplasm of tonsillar pillar	187675005	288486019	32
+721481000006111	200	B063	B063.00	Malignant neoplasm of vallecula	363395000	482589019	32
+155669014	200	B013	B013.00	Malignant neoplasm of ventral surface of tongue	94134006	155669014	32
+288471013	500	B055z	B055z00	Malignant neoplasm of palate NOS	363390005	482579018	32
+729321000006119	200	B20	B20..00	Malignant neoplasm of nasal cavities, middle ear and accessory sinuses	187828007	288770010	32
+453301018	80	B007	B007.00	Malignant tumour of lip	363348004	482495016	32
+1219531013	20	B017	B017.00	Malignant overlapping lesion of tongue	109823006	1219531013	32
+288568015	400	B083	B083.00	Malignant neoplasm of posterior pharynx	187709007	288568015	32
+721721000006119	100	B205	B205.00	Malignant neoplasm of sphenoidal sinus	363428005	482654012	32
+288775017	30	B2003	B200300	Malignant neoplasm of vestibule of nose	187831008	288775017	32
+720761000006115	60	B030	B030.00	Malignant neoplasm of upper gum	363383000	482562012	32
+288533015	300	B0710	B071000	Malignant neoplasm of adenoid	187694000	288533015	32
+288444013	200	B041	B041.00	Malignant neoplasm of lateral portion of floor of mouth	187653008	288444013	32
+720801000006112	30	B0000	B000000	Malignant tumour of vermilion border of lip	421249001	2618242015	32
+730011000006119	50	B201	B201.00	Malignant neoplasm of auditory tube, middle ear and mastoid air cells	187833006	288777013	32
+288803016	500	B213z	B213z00	Malignant tumour of laryngeal cartilage	363431006	482660012	32
+724421000006114	50	B001	B001.00	Malignant neoplasm of lower lip, vermilion border	363373004	1228505018	32
+155211011	100	B011	B011.00	Malignant neoplasm of dorsal surface of tongue	187633009	288413016	32
+288507011	30	B0640	B064000	Malignant neoplasm of epiglottis, free border	187682009	288507011	32
+1228506017	10	B0011	B001100	Malignant neoplasm of lower lip, lipstick area	363373004	1228506017	32
+288382016	4	B0031	B003100	Malignant neoplasm of lower lip, frenulum	187614004	288382016	32
+724401000006116	20	B0032	B003200	Malignant tumour of lower labial mucosa	271568003	406400016	32
+288438014	500	B02z	B02z.00	Malignant tumour of major salivary gland	363378008	482553010	32
+288454012	10	B0510	B051000	Malignant neoplasm of upper buccal sulcus	187659007	288454012	32
+289430013	300	B5505	B550500	Malignant neoplasm of supraclavicular fossa	1090951000000101	2732781000000116	32
+724901000006112	20	B0040	B004000	Malignant neoplasm of lip unspecified, buccal aspect	187622006	288392012	32
+288418013	100	B011z	B011z00	Malignant neoplasm of dorsum of tongue NOS	187633009	288413016	32
+173946014	100	B05z0	B05z000	Kaposi's sarcoma of palate	109388009	173946014	32
+288509014	30	B064z	B064z00	Malignant neoplasm of anterior epiglottis NOS	187681002	288506019	32
+155332018	200	B066	B066.00	Malignant neoplasm of lateral wall of oropharynx	448868009	2901613017	32
+288355012	3	B001z	B001z00	Malignant tumour of vermilion border of lower lip	363373004	482542016	32
+288362015	10	B0023	B002300	Malignant neoplasm of upper lip, oral aspect	187606005	288362015	32
+288434011	80	B01y	B01y.00	Malignant neoplasm of other sites of tongue	363375006	482546018	32
+288459019	20	B0511	B051100	Malignant neoplasm of lower buccal sulcus	187660002	288459019	32
+288505015	500	B062z	B062z00	Malignant tumour of tonsillar fossa	363394001	482587017	32
+288529010	200	B071	B071.00	Malignant neoplasm of posterior wall of nasopharynx	187693006	288529010	32
+288563012	80	B07y	B07y.00	Malignant neoplasm of other specified site of nasopharynx	187692001	288519015	32
+445587010	20	B62x4	B62x400	Malignant reticulosis	118612006	445587010	32
+288393019	20	B0043	B004300	Malignant neoplasm of lip, oral aspect	187622006	288393019	32
+288427014	10	B0131	B013100	Malignant neoplasm of frenulum linguae	187641009	288427014	32
+288430019	50	B014	B014.00	Malignant neoplasm of anterior 2/3 of tongue unspecified	363360003	482519011	32
+288433017	4	B015	B015.00	Malignant neoplasm of tongue, junctional zone	187644001	288433017	32
+288517018	60	B06yz	B06yz00	Malignant neoplasm of other specified site of oropharynx NOS	363392002	482583018	32
+727761000006116	200	B082	B082.00	Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect	187708004	288566016	32
+288792014	90	B20z	B20z.00	Malignant tumour of nasal sinuses	363506007	482798018	32
+721881000006113	100	B022	B022.00	Malignant neoplasm of sublingual gland	363381003	482558018	32
+288448011	60	B04y	B04y.00	Malignant neoplasm of other sites of floor of mouth	363385007	482569015	32
+1228523014	100	B0551	B055100	Malignant neoplasm of roof of mouth	363390005	1228523014	32
+288510016	60	B065	B065.00	Malignant neoplasm of junctional region of epiglottis	187685006	288510016	32
+288515014	70	B067	B067.00	Malignant neoplasm of posterior wall of oropharynx	187688008	288515014	32
+730021000006110	10	B201z	B201z00	Malignant neoplasm of auditory tube, middle ear and mastoid air cells	187833006	288777013	32
+288799017	60	B2130	B213000	Malignant neoplasm of arytenoid cartilage	187843009	288799017	32
+1228504019	20	B000	B000.00	Malignant neoplasm of upper lip, vermilion border	363372009	1228504019	32
+288351015	4	B000z	B000z00	Malignant tumour of vermilion border of upper lip	363372009	482541011	32
+288372017	4	B0021	B002100	Malignant neoplasm of upper lip, frenulum	187608006	288372017	32
+288364019	7	B0022	B002200	Malignant neoplasm of upper lip, mucosa	187606005	288364019	32
+406399011	9	B003	B003.00	Malignant neoplasm of lower lip, inner aspect	271568003	406399011	32
+288380012	7	B0030	B003000	Malignant neoplasm of lower lip, buccal aspect	187613005	288380012	32
+288387010	8	B003z	B003z00	Malignant neoplasm of lower lip, inner aspect NOS	271568003	406398015	32
+288410018	5	B00zz	B00zz00	Malignant neoplasm of lip, vermilion border NOS	421249001	2618242015	32
+288411019	200	B0100	B010000	Malignant neoplasm of base of tongue dorsal surface	187631006	288411019	32
+288470014	100	B0550	B055000	Malignant neoplasm of junction of hard and soft palate	187666008	288470014	32
+1228530015	70	B0600	B060000	Malignant neoplasm of faucial tonsil	363393007	1228530015	32
+288508018	40	B0641	B064100	Malignant neoplasm of glossoepiglottic fold	187683004	288508018	32
+288541015	100	B071z	B071z00	Malignant tumour of posterior wall of nasopharynx	187693006	288528019	32
+288570012	300	B08y	B08y.00	Malignant neoplasm of other specified hypopharyngeal site	363399006	482597014	32
+288771014	100	B2000	B200000	Malignant neoplasm of cartilage of nose	187829004	288771014	32
+288350019	5	B0001	B000100	Malignant neoplasm of upper lip, lipstick area	187601000	288350019	32
+724411000006118	8	B0033	B003300	Malig neoplasm of lower lip, oral aspect	271568003	406398015	32
+726351000006116	5	B005	B005.00	Malignant neoplasm of commissure of lip	363374005	482544015	32
+288429012	80	B013z	B013z00	Malignant neoplasm of ventral surface of tongue	1090271000000101	2731401000000113	32
+1228532011	20	B070	B070.00	Malignant neoplasm of roof of nasopharynx	363397008	1228532011	32
+724841000006116	40	B072	B072.00	Malignant neoplasm of lateral wall of nasopharynx	363398003	482595018	32
+720491000006119	20	B0732	B073200	Malignant tumour of posterior margin of nasal septum and choanae	254484001	378896011	32
+288787012	2	B2012	B201200	Malignant neoplasm of tympanic antrum	187836003	288787012	32
+724621000006112	10	B2013	B201300	Malignant neoplasm of mastoid air cells	363424007	482646010	32
+288790018	7	B206	B206.00	Malignant neoplasm, overlapping lesion of accessory sinuses	187838002	288790018	32
+729571000006113	60	B20y	B20y.00	Malig neop other site nasal cavity, middle ear and sinuses	187828007	288770010	32
+1219468014	20	B214	B214.00	Malignant neoplasm, overlapping lesion of larynx	109369002	1219468014	32
+288363013	5	B002	B002.00	Malignant neoplasm of upper lip, inner aspect	187606005	288363013	32
+288388017	7	B004	B004.00	Malignant tumour of labial mucosa	187622006	288402019	32
+288409011	2	B00z1	B00z100	Malignant tumour of lipstick area of lip	275399006	411376018	32
+1228509012	700	B010-1	B010.11	Malignant neoplasm of posterior third of tongue	363376007	1228509012	32
+288412014	300	B010z	B010z00	Malignant neoplasm of fixed part of tongue NOS	363376007	482548017	32
+288423013	10	B0130	B013000	Malignant neoplasm of anterior 2/3 of tongue ventral surface	187640005	288423013	32
+288437016	40	B02y	B02y.00	Malignant neoplasm of other major salivary glands	363378008	482552017	32
+288440016	70	B03z	B03z.00	Malignant neoplasm of gum NOS	363382005	482560016	32
+288453018	3	B051	B051.00	Malignant neoplasm of vestibule of mouth	187658004	288453018	32
+2475984012	60	B0622	B062200	Malignant neoplasm of palatoglossal arch	254459004	2475984012	32
+288550018	20	B072z	B072z00	Malignant tumour of lateral wall of nasopharynx	363398003	482595018	32
+288578017	5	B0z1	B0z1.00	Malignant neoplasm of Waldeyer's ring	187716008	288578017	32
+288772019	80	B2001	B200100	Malignant neoplasm of nasal conchae	187830009	288772019	32
+288377011	2	B002z	B002z00	Malignant neoplasm of upper lip, inner aspect NOS	187606005	288356013	32
+288391017	7	B0042	B004200	Malignant neoplasm of lip unspecified, mucosa	187622006	288392012	32
+288408015	6	B00z0	B00z000	Malignant neoplasm of lip, unspecified, external	363348004	482495016	32
+288417015	5	B0111	B011100	Malignant neoplasm of midline of tongue	187635002	288417015	32
+288439018	200	B03y	B03y.00	Malignant neoplasm of other sites of gum	363382005	482560016	32
+1228529013	100	B0601	B060100	Malignant neoplasm of palatine tonsil	363393007	1228529013	32
+723321000006117	10	B0602	B060200	Overlapping malignant neoplasm of tonsil	110013004	174720013	32
+725811000006116	4	B0621	B062100	Malignant tumour of anterior pillar of fauces	254459004	378845014	32
+723391000006115	10	B0623	B062300	Malignant neoplasm of palatopharyngeal arch	187675005	288479010	32
+288552014	10	B073	B073.00	Malignant neoplasm of anterior wall of nasopharynx	187700006	288552014	32
+288556012	300	B0731	B073100	Malignant neoplasm of nasopharyngeal soft palate surface	187702003	288556012	32
+288561014	1	B073z	B073z00	Malignant tumour of anterior wall of nasopharynx	187700006	288553016	32
+1219467016	1	B074	B074.00	Malignant neoplasm, overlapping lesion of nasopharynx	109367000	1219467016	32
+288779011	20	B2010	B201000	Malignant neoplasm of auditory (Eustachian) tube	187834000	288779011	32
+288801019	2	B2132	B213200	Malignant neoplasm of cuneiform cartilage	187845002	288801019	32
+288784017	3	B2011	B201100	Malignant neoplasm of tympanic cavity	187835004	288784017	32
+396301000006110	700	Byu0	Byu0.00	[X]Malignant neoplasm of lip, oral cavity and pharynx	271323007	406052010	32
+1216488012	100000	B10	B10..00	Malignant neoplasm of oesophagus	363402007	1216488012	32
+1216486011	70000	B10z-1	B10z.11	Oesophageal cancer	363402007	1216486011	32
+403674011	30000	B10z	B10z.00	Malignant neoplasm of oesophagus NOS	363402007	1216488012	32
+288608011	10000	B105	B105.00	Malignant neoplasm of lower third of oesophagus	187727005	288608011	32
+288607018	1000	B104	B104.00	Malignant neoplasm of middle third of oesophagus	187726001	288607018	32
+288602012	1000	B103	B103.00	Malignant neoplasm of upper third of oesophagus	187725002	288602012	32
+288614016	400	B10y	B10y.00	Malignant neoplasm of other specified part of oesophagus	363402007	482603012	32
+288594012	500	B101	B101.00	Malignant neoplasm of thoracic oesophagus	187723009	288594012	32
+288597017	500	B102	B102.00	Malignant neoplasm of abdominal oesophagus	187724003	288597017	32
+638841000000113	100	B107	B107.00	Siewert type I adenocarcinoma	342571000000109	638841000000113	32
+288589012	400	B100	B100.00	Malignant neoplasm of cervical oesophagus	187722004	288589012	32
+1215862010	100	B106	B106.00	Malignant neoplasm, overlapping lesion of oesophagus	109835005	1215862010	32
+721851000006117	100000	B11	B11..00	Malignant tumour of stomach	363349007	482498019	32
+288656017	20000	B11z	B11z.00	Malignant tumour of stomach	363349007	482498019	32
+799181000006112	8000	B11-1	B11..11	Tumour of stomach	126824007	473860014	32
+288625013	5000	B110	B110.00	Malignant neoplasm of cardia of stomach	187732006	288625013	32
+288632016	2000	B1101	B110100	Malignant neoplasm of cardio-oesophageal junction of stomach	187734007	288632016	32
+288647013	2000	B114	B114.00	Malignant neoplasm of body of stomach	187742008	288647013	32
+288638017	600	B1111	B111100	Malignant neoplasm of pyloric canal of stomach	187738005	288638017	32
+288641014	1000	B112	B112.00	Malignant neoplasm of pyloric antrum of stomach	187740000	288641014	32
+288649011	1000	B115	B115.00	Malignant tumour of lesser curve of stomach	269459004	403678014	32
+288635019	1000	B111	B111.00	Malignant neoplasm of pylorus of stomach	187736009	288635019	32
+288644018	1000	B113	B113.00	Malignant neoplasm of fundus of stomach	187741001	288644018	32
+638721000000113	100	B118	B118.00	Siewert type II adenocarcinoma	342511000000104	638721000000113	32
+288650011	400	B116	B116.00	Malignant neoplasm of greater curve of stomach unspecified	269460009	403680015	32
+638821000000118	200	B119	B119.00	Siewert type III adenocarcinoma	342561000000102	638821000000118	32
+288633014	700	B110z	B110z00	Malignant neoplasm of cardia of stomach NOS	187732006	288625013	32
+722341000006119	300	B1110	B111000	Malignant neoplasm of prepylorus of stomach	1090291000000102	2731441000000111	32
+288631011	2000	B1101-1	B110111	Malignant neoplasm of gastro-oesophageal junction	187734007	288631011	32
+288639013	200	B111z	B111z00	Malignant neoplasm of pylorus of stomach NOS	187736009	288634015	32
+288652015	200	B11y	B11y.00	Malignant neoplasm of other specified site of stomach	363349007	482497012	32
+288655018	80	B11yz	B11yz00	Malignant neoplasm of other specified site of stomach NOS	363349007	482497012	32
+288654019	20	B11y1	B11y100	Malignant neoplasm of posterior wall of stomach	1090971000000105	2732821000000112	32
+288653013	40	B11y0	B11y000	Malignant neoplasm of anterior wall of stomach	1090981000000107	2732841000000117	32
+288628010	9	B1100	B110000	Malignant neoplasm of cardiac orifice of stomach	187733001	288628010	32
+1219534017	40	B117	B117.00	Malignant neoplasm, overlapping lesion of stomach	109836006	1219534017	32
+726021000006110	5000	B120	B120.00	Malignant tumour of duodenum	363403002	482606016	32
+721601000006117	3000	B12	B12..00	Malignant tumour of small intestine	363509000	482805015	32
+288663017	2000	B12z	B12z.00	Malignant neoplasm of small intestine NOS	363509000	482804016	32
+725271000006112	800	B122	B122.00	Malignant tumour of ileum	363405009	482610018	32
+725451000006118	600	B121	B121.00	Malignant neoplasm of jejunum	363404008	482607013	32
+288659012	20	B123	B123.00	Malignant neoplasm of Meckel's diverticulum	187752007	288659012	32
+723221000006112	90	B12y	B12y.00	Malignant neoplasm of other specified site small intestine	363509000	482804016	32
+726331000006111	200000	B13	B13..00	Malignant neoplasm of colon	363406005	3446619012	32
+573611000006118	80000	B13z-1	B13z.11	Colonic cancer	363406005	482611019	32
+1216464010	50000	B134	B134.00	Malignant neoplasm of caecum	363350007	1216464010	32
+721991000006115	100000	B133	B133.00	Malignant tumour of sigmoid colon	363410008	482619017	32
+841331000006115	50000	B1z0-1	B1z0.11	Cancer of bowel	363508008	1228620018	32
+403682011	50000	B13z	B13z.00	Malignant tumour of colon	363406005	482611019	32
+727321000006111	20000	B136	B136.00	Malignant tumour of ascending colon	363412000	482623013	32
+722441000006110	10000	B140	B140.00	Malignant tumour of rectosigmoid junction	363414004	482627014	32
+155076015	10000	B142	B142.00	Malignant tumour of anal canal	363352004	482503016	32
+721421000006112	10000	B131	B131.00	Malignant tumour of transverse colon	363408006	482615011	32
+380129018	20000	B134-1	B134.11	Carcinoma of caecum	255081007	380129018	32
+725951000006112	8000	B132	B132.00	Malignant tumour of descending colon	363409003	482618013	32
+725191000006116	7000	B130	B130.00	Malignant tumour of hepatic flexure	363407001	482614010	32
+721821000006114	5000	B137	B137.00	Malignant neoplasm of splenic flexure of colon	363413005	482625018	32
+727281000006117	4000	B135	B135.00	Malignant neoplasm of appendix	363411007	482621010	32
+288671018	300	B13y	B13y.00	Malignant neoplasm of other specified sites of colon	363406005	482611019	32
+288670017	60	B138	B138.00	Malignant neoplasm, overlapping lesion of colon	187757001	288670017	32
+155488014	200000	B141	B141.00	Malignant tumour of rectum	363351006	482502014	32
+379089019	100000	B141-2	B141.12	Rectal carcinoma	254582000	379090011	32
+379088010	30000	B141-1	B141.11	Carcinoma of rectum	254582000	379090011	32
+288675010	10000	B14	B14..00	Malignant neoplasm of rectum, rectosigmoid junction and anus	187760008	288675010	32
+720501000006110	600	B14z	B14z.00	Malignant neoplasm rectum,rectosigmoid junction and anus NOS	187760008	288675010	32
+729581000006111	200	B14y	B14y.00	Malig neop other site rectum, rectosigmoid junction and anus	187760008	288675010	32
+380137014	9000	B142-1	B142.11	Anal carcinoma	363352004	482503016	32
+288685011	7000	B143	B143.00	Malignant tumour of anus	363490009	482768013	32
+174518012	30	B1420	B142000	Malignant neoplasm of cloacogenic zone	363491008	482769017	32
+342807011	30000	B1503	B150300	Hepatocellular carcinoma	109841003	342807011	32
+288700011	8000	B152	B152.00	Malignant neoplasm of liver	93870000	155343014	32
+157732017	4000	B150	B150.00	Primary malignant neoplasm of liver	95214007	157732017	32
+288690014	1000	B1500	B150000	Primary carcinoma of liver	187769009	288690014	32
+288688013	3000	B15	B15..00	Malignant neoplasm of liver and intrahepatic bile ducts	187767006	288688013	32
+342834014	700	B1501	B150100	Hepatoblastoma of liver	109843000	342834014	32
+288692018	400	B150z	B150z00	Primary malignant neoplasm of liver NOS	95214007	157732017	32
+342851019	100	B1502	B150200	Primary angiosarcoma of liver	109844006	342851019	32
+292101010	100	Byu11	Byu1100	Liver carcinoma	109841003	342812012	32
+725711000006113	10000	B160	B160.00	Malignant tumour of gallbladder	363353009	482506012	32
+535221000006113	3000	B160-1	B160.11	Carcinoma of gallbladder	372140005	1210716013	32
+727791000006112	400	B16z	B16z.00	Malignant neoplasm gallbladder/extrahepatic bile ducts NOS	363415003	482629012	32
+727781000006114	600	B16	B16..00	Malignant neoplasm gallbladder and extrahepatic bile ducts	363415003	482629012	32
+720451000006113	100	B16y	B16y.00	Malignant neoplasm other gallbladder/extrahepatic bile duct	363415003	482629012	32
+727911000006116	4000	B162	B162.00	Malignant neoplasm of ampulla of Vater	363417006	482633017	32
+726361000006119	2000	B1612	B161200	Malignant neoplasm of common bile duct	93763008	155198014	32
+726201000006111	1000	B161	B161.00	Malignant tumour of extrahepatic bile duct	363416002	482631015	32
+155305011	1000	B151	B151.00	Malignant neoplasm of intrahepatic bile ducts	187777008	288698019	32
+380139012	600	B1612-1	B161211	Carcinoma common bile duct	255086002	380139012	32
+288702015	600	B15z	B15z.00	Malignant neoplasm of liver and intrahepatic bile ducts NOS	187767006	288688013	32
+288707014	400	B1611	B161100	Malignant neoplasm of hepatic duct	187784000	288707014	32
+288712010	100	B161z	B161z00	Malignant neoplasm of extrahepatic bile ducts NOS	363416002	482631015	32
+288699010	100	B151z	B151z00	Malignant neoplasm of intrahepatic bile ducts NOS	187777008	288698019	32
+1219537012	100	B163	B163.00	Malignant neoplasm, overlapping lesion of biliary tract	109847004	1219537012	32
+288698019	200	B1514	B151400	Malignant neoplasm of intrahepatic gall duct	187777008	288698019	32
+2619456011	100	B1512	B151200	Malignant neoplasm of intrahepatic biliary passages	187777008	2619456011	32
+288694017	40	B1510	B151000	Malignant neoplasm of interlobular bile ducts	187773007	288694017	32
+155207017	30	B1610	B161000	Malignant neoplasm of cystic duct	93770008	155207017	32
+288711015	2	B1613	B161300	Malignant neoplasm of sphincter of Oddi	187786003	288711015	32
+2475562018	40	B1511	B151100	Malignant neoplasm of interlobular biliary canals	187776004	2475562018	32
+723401000006118	100000	B17	B17..00	Malignant tumour of pancreas	363418001	482635012	32
+288736014	10000	B17z	B17z.00	Malignant neoplasm of pancreas NOS	363418001	482635012	32
+725121000006118	30000	B170	B170.00	Malignant tumour of head of pancreas	363419009	482638014	32
+288723014	2000	B173	B173.00	Malignant neoplasm of pancreatic duct	187793004	288723014	32
+288720012	2000	B172	B172.00	Malignant neoplasm of tail of pancreas	187792009	288720012	32
+288717016	2000	B171	B171.00	Malignant neoplasm of body of pancreas	187791002	288717016	32
+223131000000119	1000	B7170-1	B717011	Tumour of endocrine pancreas	237596009	356071017	32
+288735013	50	B17yz	B17yz00	Malignant neoplasm of specified site of pancreas NOS	363418001	482635012	32
+288731016	70	B17y	B17y.00	Malignant neoplasm of other specified sites of pancreas	363418001	482635012	32
+288727010	20	B174	B174.00	Malignant neoplasm of Islets of Langerhans	187794005	288727010	32
+288734012	100	B17y0	B17y000	Malignant neoplasm of ectopic pancreatic tissue	187798008	288734012	32
+174532014	1000	B181	B181.00	Mesothelioma of peritoneum	109853004	174532014	32
+288747019	2000	B18y	B18y.00	Malignant neoplasm of specified parts of peritoneum	187808008	288747019	32
+1228549016	1000	B180	B180.00	Malignant neoplasm of retroperitoneum	363420003	1228549016	32
+482641017	1000	B18y3	B18y300	Malignant neoplasm of omentum	363421004	482641017	32
+155452016	1000	B18y5	B18y500	Malignant neoplasm of pelvic peritoneum	449377002	2901085015	32
+288739019	1000	B18	B18..00	Malignant neoplasm of retroperitoneum and peritoneum	187801002	288739019	32
+288757018	600	B18z	B18z.00	Malignant tumour of peritoneum and retroperitoneum	187801002	288737017	32
+288756010	200	B18yz	B18yz00	Malignant neoplasm of specified parts of peritoneum NOS	187808008	288747019	32
+482537012	300	B18y7	B18y700	Malignant neoplasm of mesentery	363370001	482537012	32
+288744014	60	B180z	B180z00	Malignant neoplasm of retroperitoneum NOS	363420003	482639018	32
+288742013	30	B1802	B180200	Malignant neoplasm of retrocaecal tissue	187804005	288742013	32
+288754013	200	B18y6	B18y600	Malignant neoplasm of the pouch of Douglas	187814001	288754013	32
+155446017	300	B18y4	B18y400	Malignant neoplasm of parietal peritoneum	93947009	155446017	32
+288741018	20	B1801	B180100	Malignant neoplasm of perinephric tissue	187803004	288741018	32
+288751017	100	B18y2	B18y200	Malignant neoplasm of mesorectum	187811009	288751017	32
+288749016	2	B18y1	B18y100	Malignant neoplasm of mesocaecum	187810005	288749016	32
+288760013	70	B1z1	B1z1.00	Malignant neoplasm of spleen NEC	363499005	482785010	32
+288761012	90	B1z10	B1z1000	Angiosarcoma of spleen	187821001	288761012	32
+288762017	2	B1z11	B1z1100	Fibrosarcoma of spleen	187822008	288762017	32
+288763010	50	B1z1z	B1z1z00	Malignant tumour of spleen	363499005	482785010	32
+733371000006119	300000	B22z-1	B22z.11	Lung cancer	93880001	3288586014	32
+403689019	200000	B22z	B22z.00	Malignant tumour of lung	363358000	482516016	32
+288808013	100000	B22	B22..00	Malignant neoplasm of lower respiratory tract	430621000	2765453013	32
+155361017	20000	B221	B221.00	Malignant neoplasm of main bronchus	372065009	1210643012	32
+288820017	20000	B2221	B222100	Malignant neoplasm of upper lobe of lung	187862007	288820017	32
+403688010	20000	B222	B222.00	Malignant neoplasm of upper lobe, bronchus or lung	269464000	403688010	32
+288828012	10000	B2241	B224100	Malignant neoplasm of lower lobe of lung	187870002	288828012	32
+288826011	10000	B224	B224.00	Malignant neoplasm of lower lobe, bronchus or lung	187868006	288826011	32
+288815017	1000	B221z	B221z00	Malignant neoplasm of main bronchus NOS	372065009	1210643012	32
+288819011	4000	B2220	B222000	Malignant neoplasm of upper lobe bronchus	187861000	288819011	32
+288832018	2000	B22y	B22y.00	Malignant neoplasm of other sites of bronchus or lung	363358000	482516016	32
+414849013	900	B222-1	B222.11	Pancoast's syndrome	278065000	414849013	32
+155287019	2000	B2211	B221100	Malignant neoplasm of hilus of lung	93827000	155287019	32
+288822013	4000	B223	B223.00	Malignant neoplasm of middle lobe, bronchus or lung	187864008	288822013	32
+288824014	2000	B2231	B223100	Malignant neoplasm of middle lobe of lung	187866005	288824014	32
+288827019	1000	B2240	B224000	Malignant neoplasm of lower lobe bronchus	187869003	288827019	32
+288821018	2000	B222z	B222z00	Malignant neoplasm of upper lobe, bronchus or lung NOS	269464000	403688010	32
+721391000006116	1000	B220	B220.00	Malignant neoplasm of trachea	363432004	482662016	32
+723001000006113	1000	B23	B23..00	Malignant neoplasm of pleura	363433009	482664015	32
+288829016	500	B224z	B224z00	Malignant neoplasm of lower lobe, bronchus or lung NOS	187868006	288826011	32
+288813012	2000	B2210	B221000	Malignant neoplasm of carina of bronchus	187857006	288813012	32
+288823015	500	B2230	B223000	Malignant neoplasm of middle lobe bronchus	187865009	288823015	32
+288825010	100	B223z	B223z00	Malignant neoplasm of middle lobe, bronchus or lung NOS	187864008	288822013	32
+288811014	60	B220z	B220z00	Malignant neoplasm of trachea NOS	363432004	482662016	32
+155447014	70	B230	B230.00	Malignant neoplasm of parietal pleura	449067008	2901158012	32
+288810010	2	B2201	B220100	Malignant neoplasm of mucosa of trachea	187854004	288810010	32
+155675017	10	B231	B231.00	Malignant neoplasm of visceral pleura	449308006	2901116014	32
+721271000006114	2000	B240	B240.00	Malignant neoplasm of thymus	363434003	482666018	32
+724671000006113	200	B24X	B24X.00	Malignant neoplasm of mediastinum, part unspecified	363494000	482776010	32
+155078019	300	B242	B242.00	Malignant neoplasm of anterior mediastinum	449224009	2901920014	32
+288841011	100	B24	B24..00	Malignant neoplasm of thymus, heart and mediastinum	187881004	288841011	32
+726071000006111	40	B2410	B241000	Malignant neoplasm of endocardium	363436001	482670014	32
+725151000006110	40	B241	B241.00	Malignant neoplasm of heart	363435002	482668017	32
+155459013	50	B2413	B241300	Malignant neoplasm of pericardium	93957005	155459013	32
+173941016	5	B2414	B241400	Mesothelioma of pericardium	109383000	173941016	32
+288852017	4	B24z	B24z.00	Malignant neoplasm of heart, thymus and mediastinum NOS	187881004	288841011	32
+155473016	30	B243	B243.00	Malignant neoplasm of posterior mediastinum	448670003	2901476012	32
+724051000006110	6	B2412	B241200	Malignant neoplasm of myocardium	363437005	482672018	32
+288847010	10	B241z	B241z00	Malignant tumour of heart	363435002	482668017	32
+729521000006112	4	B24y	B24y.00	Malig neop of other site of heart, thymus and mediastinum	187881004	288841011	32
+288839010	30	B23y	B23y.00	Malignant neoplasm of other specified pleura	363433009	482664015	32
+723301000006110	400	B225	B225.00	Malignant neoplasm of overlapping lesion of bronchus and lung	109371002	1219469018	32
+380093012	5000	B3-2	B3...12	Sarcoma of bone and connective tissue	255067005	380093012	32
+291787016	2000	BBX	BBX..00	[M]Giant cell tumours	115238001	175994011	32
+308351000006112	6000	BBY0	BBY0.00	Ewing's sarcoma	76909002	127685019	32
+2164653019	5000	B30z0	B30z000	Osteosarcoma	307576001	2164653019	32
+288959010	1000	B30z	B30z.00	Malignant neoplasm of bone and articular cartilage	1090821000000101	2732521000000110	32
+314451000006112	400	BBV1-3	BBV1.13	Osteogenic sarcoma	21708004	36430010	32
+403691010	3000	B30	B30..00	Malignant neoplasm of bone and articular cartilage	443679004	2839107012	32
+291794018	5000	BBXz	BBXz.00	Giant cell tumour	115238001	409411013	32
+155368011	2000	B301	B301.00	Malignant neoplasm of mandible	448668007	2901472014	32
+317411000006116	400	BBV4	BBV4.00	[M]Telangiectatic osteosarcoma	78453009	130181016	32
+1222660012	2000	BBV1	BBV1.00	[M]Osteosarcoma NOS	21708004	1222660012	32
+155370019	2000	B300A	B300A00	Malignant neoplasm of maxilla	93888008	155370019	32
+291795017	500	BBY	BBY..00	[M]Miscellaneous bone tumours	115239009	175995012	32
+155246015	900	B3070	B307000	Malignant neoplasm of femur	93798006	155246015	32
+291790010	1000	BBX0	BBX0.00	Giant cell tumour of bone	57500000	497909017	32
+291778013	100	BBVA	BBVA.00	Small cell osteosarcoma	12302002	21172011	32
+720341000006115	900	B302	B302.00	Malignant neoplasm of vertebral column	363438000	482674017	32
+155495017	300	B3030	B303000	Malignant neoplasm of rib	93990005	155495017	32
+2549374014	200	B3065	B306500	Malignant sacral teratoma	416842003	2549374014	32
+288887017	300	B3022	B302200	Malignant neoplasm of lumbar vertebra	187918004	288887017	32
+306661000006117	200	BBV2	BBV2.00	[M]Chondroblastic osteosarcoma	76312009	126736011	32
+288901015	400	B3042	B304200	Malignant neoplasm of humerus	187932002	288901015	32
+1231451015	500	BBV8	BBV8.00	[M]Osteoblastoma	55333008	1231451015	32
+288886014	300	B3021	B302100	Malignant neoplasm of thoracic vertebra	187917009	288886014	32
+314351000006117	300	BBV1-1	BBV1.11	[M]Osteoblastic sarcoma	21708004	36428013	32
+288924010	600	B306	B306.00	Malignant neoplasm of pelvic bones, sacrum and coccyx	187952001	288924010	32
+155624015	100	B3072	B307200	Malignant neoplasm of tibia	94099002	155624015	32
+155592016	100	B3031	B303100	Malignant neoplasm of sternum	94073009	155592016	32
+288930010	100	B306z	B306z00	Malignant neoplasm of pelvis, sacrum or coccyx NOS	187952001	288924010	32
+155503017	90	B3040	B304000	Malignant neoplasm of scapula	93997008	155503017	32
+288931014	1000	B307	B307.00	Malignant neoplasm of long bones of leg	449627008	2912930013	32
+288928013	100	B3063	B306300	Malignant neoplasm of sacral vertebra	187956003	288928013	32
+288885013	100	B3020	B302000	Malignant neoplasm of cervical vertebra	187916000	288885013	32
+288869015	700	B300	B300.00	Malignant neoplasm of bones of skull and face	187900002	288869015	32
+288888010	60	B302z	B302z00	Malignant neoplasm of vertebral column NOS	363438000	482674017	32
+291801014	300	BBYz	BBYz.00	[M]Miscellaneous bone tumour NOS	115239009	175995012	32
+155294016	50	B3060	B306000	Malignant neoplasm of ilium	93833009	155294016	32
+314401000006113	60	BBV1-2	BBV1.12	[M]Osteochondrosarcoma	21708004	36427015	32
+291779017	100	BBVz	BBVz.00	[M]Osteoma or osteosarcoma NOS	115237006	175993017	32
+155191015	40	B3032	B303200	Malignant neoplasm of clavicle	93757004	155191015	32
+308491000006111	60	BBV3	BBV3.00	Fibroblastic osteosarcoma	12690005	21792013	32
+720021000006112	90	B30X	B30X.00	Malignant neoplasm/bones+articular cartilage/limb,unspfd	1090871000000102	2732621000000111	32
+314501000006114	60	BBV5	BBV5.00	[M]Osteosarcoma in Paget's disease of bone	33681003	56227012	32
+288889019	200	B303	B303.00	Malignant neoplasm of ribs, sternum and clavicle	187920001	288889019	32
+288922014	80	B305D	B305D00	Malignant neoplasm of phalanges of hand	187950009	288922014	32
+288898016	200	B304	B304.00	Malignant neoplasm of scapula and long bones of upper arm	187929000	288898016	32
+308001000006111	20	BBY0-1	BBY0.11	[M]Endothelial bone sarcoma	76909002	127685019	32
+155259011	20	B3001	B300100	Malignant neoplasm of frontal bone	93806005	155259011	32
+155402013	40	B3003	B300300	Malignant neoplasm of nasal bone	93916003	155402013	32
+155607014	200	B3008	B300800	Malignant neoplasm of temporal bone	94085001	155607014	32
+288894019	20	B3033	B303300	Malignant neoplasm of costal cartilage	187925006	288894019	32
+288952018	20	B308D	B308D00	Malignant neoplasm of phalanges of foot	187978005	288952018	32
+309131000006114	70	BBX1	BBX1.00	Malignant giant cell tumour of bone	10069009	1215819014	32
+155228014	300	B3000	B300000	Malignant neoplasm of ethmoid bone	93786001	155228014	32
+155582012	20	B3007	B300700	Malignant neoplasm of sphenoid bone	94066004	155582012	32
+288883018	30	B300z	B300z00	Malignant neoplasm of bones of skull and face NOS	187900002	288869015	32
+288896017	4	B3035	B303500	Malignant neoplasm of xiphoid process	187927003	288896017	32
+403697014	20	B305	B305.00	Malignant neoplasm of hand bones	269467007	403697014	32
+155479017	40	B3062	B306200	Malignant neoplasm of pubis	93975006	155479017	32
+155247012	40	B3071	B307100	Malignant neoplasm of fibula	93799003	155247012	32
+155677013	5	B300C	B300C00	Malignant neoplasm of vomer	94142007	155677013	32
+155308013	30	B3061	B306100	Malignant neoplasm of ischium	93842002	155308013	32
+309071000006111	50	BBX1-1	BBX1.11	[M]Giant cell bone sarcoma	10069009	1215819014	32
+155421017	10	B3004	B300400	Malignant neoplasm of occipital bone	93927001	155421017	32
+288875012	20	B3005	B300500	Malignant neoplasm of orbital bone	187906008	288875012	32
+288897014	6	B303z	B303z00	Malignant neoplasm of rib, sternum and clavicle NOS	187920001	288889019	32
+288910011	40	B3051	B305100	Malignant neoplasm of carpal bone - lunate	187938003	288910011	32
+288923016	8	B305z	B305z00	Malignant neoplasm of hand bones NOS	269467007	403697014	32
+288929017	7	B3064	B306400	Malignant neoplasm of coccygeal vertebra	187957007	288929017	32
+155444019	10	B3006	B300600	Malignant neoplasm of parietal bone	93945001	155444019	32
+155483017	20	B3043	B304300	Malignant neoplasm of radius	93979000	155483017	32
+155641018	20	B3044	B304400	Malignant neoplasm of ulna	94112009	155641018	32
+380146015	10	B305-2	B305.12	Malignant neoplasm of metacarpal bones	255091001	380146015	32
+314421000006115	20	BBX1-2	BBX1.12	[M]Osteoclastoma, malignant	10069009	1218809016	32
+304481000006119	20	BBZG-1	BBZG.11	[M]Adamantinoma, malignant	88253001	1235328010	32
+155604019	3	B3081	B308100	Malignant neoplasm of talus	94083008	155604019	32
+288941012	20	B3082	B308200	Malignant neoplasm of calcaneum	187967002	288941012	32
+310801000006117	6	BBV-1	BBV..11	[M]Juxtacortical osteogenic sarcoma	115237006	175993017	32
+288872010	30	B3002	B300200	Malignant neoplasm of malar bone	187903000	288872010	32
+155681013	30	B3009	B300900	Malignant neoplasm of zygomatic bone	94145009	155681013	32
+726631000006118	4	B3034	B303400	Malignant neoplasm of costo-vertebral joint	187926007	288895018	32
+729541000006117	90	B304z	B304z00	Malig neop of scapula and long bones of upper arm NOS	187929000	288898016	32
+288909018	6	B3050	B305000	Malignant neoplasm of carpal bone - scaphoid	187937008	288909018	32
+288935017	80	B307z	B307z00	Malignant neoplasm of long bone of lower limb	449627008	2912930013	32
+288942017	8	B3083	B308300	Malignant neoplasm of medial cuneiform	187968007	288942017	32
+288953011	20	B308z	B308z00	Malignant neoplasm of short bones of leg NOS	712525007	3082865010	32
+720031000006110	4	B30W	B30W.00	Malignant neoplasm/overlap lesion/bone+articulr cartilage	109347009	173899016	32
+310571000006113	20	BBZ2-1	BBZ2.11	[M]Intraosseous carcinoma	26888009	44988019	32
+155068017	3	B3041	B304100	Malignant neoplasm of acromion	93661001	155068017	32
+380145016	1	B305-1	B305.11	Malignant neoplasm of carpal bones	255090000	380145016	32
+288917014	2	B3058	B305800	Malignant neoplasm of first metacarpal bone	187945003	288917014	32
+288919012	3	B305A	B305A00	Malignant neoplasm of third metacarpal bone	187947006	288919012	32
+288921019	4	B305C	B305C00	Malignant neoplasm of fifth metacarpal bone	187949009	288921019	32
+403698016	20	B308	B308.00	Malignant neoplasm of short bone of lower limb	712525007	3082865010	32
+288947011	20	B3088	B308800	Malignant neoplasm of first metatarsal bone	187973001	288947011	32
+288950014	3	B308B	B308B00	Malignant neoplasm of fourth metatarsal bone	187976009	288950014	32
+315221000006118	8	BBV-3	BBV..13	[M]Periosteal osteogenic sarcoma	115237006	175993017	32
+2475564017	20	B300B	B300B00	Malignant neoplasm of turbinate	187830009	2475564017	32
+1211679013	100	B600	B600.00	Reticulosarcoma	373168002	1211679013	32
+289581017	2	B6000	B600000	Reticulosarcoma of unspecified site	373168002	1211679013	32
+155060012	200000	B32	B32..00	Malignant melanoma of skin	93655004	155060012	32
+289063014	5000	B32z	B32z.00	Malignant melanoma of skin NOS	93655004	155060012	32
+289029012	2000	B3251	B325100	Malignant melanoma of breast	188050009	289029012	32
+454085011	10000	B3257	B325700	Malignant melanoma of back	310498001	454085011	32
+289051016	10000	B3274	B327400	Malignant melanoma of lower leg	188072006	289051016	32
+289046010	7000	B327	B327.00	Malignant melanoma of lower limb and hip	188067002	289046010	32
+289027014	5000	B325	B325.00	Malignant melanoma of skin of trunk	93651008	155054012	32
+289048011	5000	B3271	B327100	Malignant melanoma of thigh	188069004	289048011	32
+289023013	3000	B324	B324.00	Malignant melanoma of scalp and neck	188044004	289023013	32
+289040016	4000	B3261	B326100	Malignant melanoma of upper arm	188061001	289040016	32
+727731000006113	4000	B326	B326.00	Malignant melanoma of upper limb	269580008	403894016	32
+289041017	2000	B3262	B326200	Malignant melanoma of fore-arm	188062008	289041017	32
+289039018	2000	B3260	B326000	Malignant melanoma of shoulder	188060000	289039018	32
+1235785014	1000	B3230	B323000	Malignant melanoma of external surface of cheek	93217003	1235785014	32
+289025018	2000	B3241	B324100	Malignant melanoma of neck	188046002	289025018	32
+289024019	1000	B3240	B324000	Malignant melanoma of scalp	188045003	289024019	32
+457109011	1000	B3258	B325800	Malignant melanoma of chest wall	313248004	457109011	32
+289054012	2000	B3277	B327700	Malignant melanoma of foot	188075008	289054012	32
+289022015	1000	B323z	B323z00	Malignant melanoma of skin of face	93225001	154247017	32
+289049015	800	B3272	B327200	Malignant melanoma of knee	188070003	289049015	32
+289015011	700	B323	B323.00	Malignant melanoma of skin of face	93225001	154247017	32
+289031015	900	B3253	B325300	Malignant melanoma of groin	188052001	289031015	32
+289060012	1000	B32y	B32y.00	Malignant melanoma of other specified skin site	93655004	155060012	32
+289028016	800	B3250	B325000	Malignant melanoma of axilla	188049009	289028016	32
+289037016	700	B325z	B325z00	Malignant melanoma of trunk	269579005	403893010	32
+289052011	900	B3275	B327500	Malignant melanoma of ankle	188073001	289052011	32
+1235798017	200	B3234	B323400	Malignant melanoma of external surface of nose	93643005	1235798017	32
+289011019	200	B322	B322.00	Malignant melanoma of ear and external auricular canal	188032002	289011019	32
+289055013	600	B3278	B327800	Malignant melanoma of toe	188076009	289055013	32
+289057017	400	B327z	B327z00	Malignant melanoma of lower limb or hip NOS	188067002	289046010	32
+289012014	500	B3220	B322000	Malignant melanoma of auricle (ear)	188033007	289012014	32
+728201000006110	300	B321	B321.00	Malignant melanoma of eyelid	231834005	347406017	32
+289021010	300	B3235	B323500	Malignant melanoma of temple	188042000	289021010	32
+289019017	500	B3233	B323300	Malignant melanoma of forehead	188040008	289019017	32
+289042012	100	B3263	B326300	Malignant melanoma of hand	188063003	289042012	32
+289044013	400	B3265	B326500	Malignant melanoma of thumb	188065005	289044013	32
+289053018	300	B3276	B327600	Malignant melanoma of heel	188074007	289053018	32
+289043019	300	B3264	B326400	Malignant melanoma of finger	188064009	289043019	32
+289056014	300	B3279	B327900	Malignant melanoma of great toe	188077000	289056014	32
+289009011	200	B320	B320.00	Malignant melanoma of lip	188030005	289009011	32
+289030019	200	B3252	B325200	Malignant melanoma of buttock	188051008	289030019	32
+289045014	400	B326z	B326z00	Malignant melanoma of upper limb or shoulder NOS	269580008	403894016	32
+289017015	70	B3231	B323100	Malignant melanoma of chin	188038003	289017015	32
+289050015	100	B3273	B327300	Malignant melanoma of popliteal fossa area	188071004	289050015	32
+289033017	200	B3255	B325500	Malignant melanoma of perineum	188054000	289033017	32
+289034011	50	B3256	B325600	Malignant melanoma of umbilicus	188055004	289034011	32
+289014010	70	B322z	B322z00	Malignant melanoma of ear and external auricular canal NOS	188032002	289011019	32
+289047018	80	B3270	B327000	Malignant melanoma of hip	188068007	289047018	32
+1235786010	40	B3232	B323200	Malignant melanoma of eyebrow	93223008	1235786010	32
+289026017	200	B324z	B324z00	Malignant melanoma of scalp and/or neck	188044004	1775484014	32
+2438551000000111	300	B329	B329.00	Malignant melanoma stage IB	956351000000100	2438551000000111	32
+2438591000000115	100	B32A	B32A.00	Malignant melanoma stage IIA	956371000000109	2438591000000115	32
+289013016	20	B3221	B322100	Malignant melanoma of external auditory meatus	188034001	289013016	32
+154231019	100	B3254	B325400	Malignant melanoma of perianal skin	93209006	154231019	32
+2438871000000117	20	B32G	B32G.00	Malignant melanoma stage IV M1a	956511000000107	2438871000000117	32
+2438911000000115	10	B32H	B32H.00	Malignant melanoma stage IV M1b	956531000000104	2438911000000115	32
+2438511000000112	300	B328	B328.00	Malignant melanoma stage IA	956331000000107	2438511000000112	32
+2438631000000115	50	B32B	B32B.00	Malignant melanoma stage IIB	956391000000108	2438631000000115	32
+2438791000000114	80	B32F	B32F.00	Malignant melanoma stage IIIC	956471000000103	2438791000000114	32
+2438951000000116	30	B32J	B32J.00	Malignant melanoma stage IV M1c	956551000000106	2438951000000116	32
+173816012	2	B32y0	B32y000	Overlapping malignant melanoma of skin	109267002	173816012	32
+288960017	2000	B31	B31..00	Malignant neoplasm of connective and other soft tissue	269469005	403699012	32
+289007013	200	B31z	B31z.00	Malignant neoplasm of connective and soft tissue, site NOS	269469005	403699012	32
+313521000006119	900	BBV9	BBV9.00	Myxoid chondrosarcoma	75622000	125602017	32
+1230800010	2000	BBTA	BBTA.00	[M]Kaposi's sarcoma	49937004	1230800010	32
+305551000006110	2000	BBT1-1	BBT1.11	Angiosarcoma	39000009	65416019	32
+291782010	5000	BBW4	BBW4.00	[M]Chondrosarcoma NOS	14990007	25445016	32
+1228566019	200	B3101	B310100	Malignant neoplasm of soft tissue of face	363440005	1228566019	32
+729451000006116	600	B3121	B312100	Malignant neoplasm of connective and soft tissue of thigh and upper leg	188001003	288976014	32
+1228567011	400	B3102	B310200	Malignant neoplasm of soft tissue of neck	363441009	1228567011	32
+1228565015	100	B3100	B310000	Malignant neoplasm of soft tissue of head	363439008	1228565015	32
+729421000006113	400	B3123	B312300	Malignant neoplasm of connective and soft tissue of lower leg	188003000	288978010	32
+288991011	300	B314	B314.00	Malignant neoplasm of connective and soft tissue of abdomen	188015001	288991011	32
+291780019	100	BBW	BBW..00	[M]Chondromatous neoplasms	31186001	52180016	32
+291783017	600	BBW7	BBW7.00	Chondroblastoma	9001003	15861012	32
+729361000006113	90	B310	B310.00	Malig neop of connective and soft tissue head, face and neck	302816009	444723017	32
+288969016	100	B3112	B311200	Malignant neoplasm of connective and soft tissue of fore-arm	187994003	288969016	32
+288986010	60	B3130	B313000	Malignant neoplasm of connective and soft tissue of axilla	188010006	288986010	32
+288985014	50	B313	B313.00	Malignant neoplasm of connective and soft tissue of thorax	188009001	288985014	32
+288995019	300	B315	B315.00	Malignant neoplasm of connective and soft tissue of pelvis	188019007	288995019	32
+729401000006115	200	B312	B312.00	Malignant neoplasm of connective and soft tissue of hip and lower limb	187999008	288974012	32
+288970015	60	B3113	B311300	Malignant neoplasm of connective and soft tissue of hand	187995002	288970015	32
+288968012	200	B3111	B311100	Malignant neoplasm of connective and soft tissue, upper arm	187993009	288968012	32
+288962013	90	B3103	B310300	Malignant neoplasm of cartilage of ear	187987001	288962013	32
+730031000006113	100	B310z	B310z00	Malig neop connective and soft tissue head, face, neck NOS	302816009	444723017	32
+729281000006113	200	B31y	B31y.00	Malig neop connective and soft tissue other specified site	269469005	403699012	32
+729371000006118	100	B314z	B314z00	Malig neop of connective and soft tissue of abdomen NOS	188015001	288991011	32
+288999013	80	B3150	B315000	Malignant neoplasm of connective and soft tissue of buttock	188020001	288999013	32
+288967019	60	B3110	B311000	Malignant neoplasm of connective and soft tissue of shoulder	187992004	288967019	32
+306721000006115	30	BBW7-1	BBW7.11	[M]Chondromatous giant cell tumour	9001003	15861012	32
+312421000006114	100	BBW9	BBW9.00	[M]Mesenchymal chondrosarcoma	56565002	94072015	32
+729291000006111	100	B311	B311.00	Malignant neoplasm of connective and soft tissue of upper limb and shoulder	187991006	288966011	32
+2659772015	100	B62D	B62D.00	Histiocytic sarcoma	109988003	2659772015	32
+288979019	200	B3124	B312400	Malignant neoplasm of connective and soft tissue of foot	188004006	288979019	32
+729461000006119	100	B316	B316.00	Malignant neoplasm of connective and soft tissues of trunk	1090891000000103	2732661000000115	32
+288963015	20	B3104	B310400	Malignant neoplasm of tarsus of eyelid	187988006	288963015	32
+288972011	10	B3115	B311500	Malignant neoplasm of connective and soft tissue of thumb	187997005	288972011	32
+729381000006115	90	B3140	B314000	Malignant neoplasm of connective and soft tissue of abdominal wall	188016000	288992016	32
+288971016	30	B3114	B311400	Malignant neoplasm of connective and soft tissue of finger	187996001	288971016	32
+289001014	100	B3152	B315200	Malignant neoplasm of connective and soft tissue of perineum	188022009	289001014	32
+729441000006118	20	B313z	B313z00	Malig neop of connective and soft tissue of thorax NOS	363365008	482529016	32
+729431000006111	200	B315z	B315z00	Malig neop of connective and soft tissue of pelvis NOS	363366009	482531013	32
+157091019	200	B653	B653.00	Myeloid sarcoma	94719007	157091019	32
+288975013	100	B3120	B312000	Malignant neoplasm of connective and soft tissue of hip	188000002	288975013	32
+730241000006113	80	B312z	B312z00	Malig neop connective and soft tissue hip and leg NOS	187999008	288974012	32
+729411000006117	40	B3151	B315100	Malignant neoplasm of connective and soft tissue of inguinal region	188021002	289000010	32
+289008015	100	B31z0	B31z000	Kaposi's sarcoma of soft tissue	188029000	289008015	32
+729301000006112	20	B311z	B311z00	Malig neop connective soft tissue upper limb/shoulder NOS	187991006	288966011	32
+730251000006110	30	B3122	B312200	Malignant neoplasm of connective and soft tissue of popliteal space	188002005	288977017	32
+155209019	9	B3131	B313100	Malignant neoplasm of diaphragm	93772000	155209019	32
+291786013	20	BBWz	BBWz.00	[M]Chondromatous neoplasm NOS	31186001	52180016	32
+1228269013	60	BBrA3	BBrA300	[M]Myeloid sarcoma	35287006	1228269013	32
+309731000006110	100	BBTD2	BBTD200	[M]Haemangiopericytoma, malignant	84664004	1217017014	32
+155272012	5	B3132	B313200	Malignant neoplasm of great vessels	93817006	155272012	32
+728491000006116	100	B3133	B313300	Malignant neoplasm of connective and soft tissues of thoracic spine	188013008	288989015	32
+728481000006119	40	B3141	B314100	Malignant neoplasm of connective and soft tissues of lumbar spine	188017009	288993014	32
+308501000006115	4	BBW4-1	BBW4.11	[M]Fibrochondrosarcoma	14990007	25445016	32
+288964014	40	B3105	B310500	Malignant neoplasm soft tissues of cervical spine	187989003	288964014	32
+288980016	5	B3125	B312500	Malignant neoplasm of connective and soft tissue of toe	188005007	288980016	32
+728451000006110	30	B3153	B315300	Malignant neoplasm of connective and soft tissue of sacrum or coccyx	188023004	289002019	32
+310791000006118	4	BBW6	BBW6.00	[M]Juxtacortical chondrosarcoma	26211003	43907019	32
+306681000006110	30	BBW8	BBW8.00	[M]Chondroblastoma, malignant	74279005	1233721016	32
+1228267010	10	BBrA3-2	BBrA312	[M]Granulocytic sarcoma	35287006	1228267010	32
+289389019	10	B5244	B524400	Malignant neoplasm of peripheral nerve of abdomen	188326001	289389019	32
+722911000006119	40	B5240	B524000	Malignant neoplasm of peripheral nerves of head, face and neck	188322004	289385013	32
+289390011	20	B5245	B524500	Malignant neoplasm of peripheral nerve of pelvis	188327005	289390011	32
+722871000006117	50	B5242	B524200	Malignant neoplasm of peripheral nerves of lower limb, including hip	188324003	289387017	32
+722901000006117	100	B5241	B524100	Malignant neoplasm of peripheral nerves of upper limb, including shoulder	188323009	289386014	32
+289388010	30	B5243	B524300	Malignant neoplasm of peripheral nerve of thorax	188325002	289388010	32
+103180017	40000	B226	B226.00	Mesothelial neoplasm	115232000	175988015	32
+705211000006111	10000	B232	B232.00	Malignant mesothelioma of pleura	254645002	379214013	32
+398291000006110	1000	Byu50-1	Byu5011	[X]Mesothelioma of lung	109378008	2660053016	32
+288840012	300	B23z	B23z.00	Malignant tumour of pleura	363433009	482664015	32
+292126018	100	Byu51	Byu5100	Cancer, mesothelioma	109378008	3036244012	32
+403762019	500	Byu50	Byu5000	Mesothelioma (malignant, clinical disorder)	109378008	2660053016	32
+1210642019	1000000	B34	B34..00	Malignant neoplasm of female breast	372064008	1210642019	32
+531851000006119	300000	B34-1	B34..11	Ca female breast	372064008	1210642019	32
+289151018	100000	B34z	B34z.00	Malignant neoplasm of female breast NOS	372064008	1210642019	32
+292137017	30000	Byu6	Byu6.00	Malignant tumour of breast	254837009	379664012	32
+289144010	20000	B344	B344.00	Malignant neoplasm of upper-outer quadrant of female breast	188154003	289144010	32
+155364013	7000	B35	B35..00	Malignant neoplasm of male breast	372095001	1210673015	32
+289137018	9000	B340	B340.00	Malignant neoplasm of nipple and areola of female breast	188147009	289137018	32
+289142014	5000	B342	B342.00	Malignant neoplasm of upper-inner quadrant of female breast	188152004	289142014	32
+289141019	3000	B341	B341.00	Malignant neoplasm of central part of female breast	188151006	289141019	32
+289145011	5000	B345	B345.00	Malignant neoplasm of lower-outer quadrant of female breast	188155002	289145011	32
+155417012	300	B3400	B340000	Malignant neoplasm of nipple of female breast	93924008	155417012	32
+289143016	3000	B343	B343.00	Malignant neoplasm of lower-inner quadrant of female breast	188153009	289143016	32
+289146012	2000	B346	B346.00	Malignant neoplasm of axillary tail of female breast	188156001	289146012	32
+289148013	700	B34y	B34y.00	Malignant neoplasm of other site of female breast	372064008	1210642019	32
+289150017	200	B34yz	B34yz00	Malignant neoplasm of other site of female breast NOS	372064008	1210642019	32
+289159016	800	B35zz	B35zz00	Malignant neoplasm of male breast NOS	372095001	1210673015	32
+155089014	200	B3401	B340100	Malignant neoplasm of areola of female breast	93680004	155089014	32
+289140018	200	B340z	B340z00	Malignant neoplasm of nipple or areola of female breast NOS	188147009	289137018	32
+289147015	100	B347	B347.00	Malignant neoplasm, overlapping lesion of breast	188157005	289147015	32
+155418019	20	B3500	B350000	Malignant neoplasm of nipple of male breast	93925009	155418019	32
+289157019	90	B35z	B35z.00	Malignant neoplasm of other site of male breast	372095001	1210673015	32
+289153015	70	B350	B350.00	Malignant neoplasm of nipple and areola of male breast	188163001	289153015	32
+155090017	50	B3501	B350100	Malignant neoplasm of areola of male breast	93681000	155090017	32
+289149017	10	B34y0	B34y000	Malignant neoplasm of ectopic site of female breast	188159008	289149017	32
+289158012	3	B35z0	B35z000	Malignant neoplasm of ectopic site of male breast	188168005	289158012	32
+721051000006113	3000	B450	B450.00	Malignant tumour of vagina	363445000	482688018	32
+289207017	600	B4501	B450100	Malignant neoplasm of vaginal vault	188209005	289207017	32
+289208010	200	B450z	B450z00	Malignant neoplasm of vagina NOS	363445000	482688018	32
+403701012	20000	B454	B454.00	Malignant tumour of vulva	363367000	482534017	32
+411399019	5000	B454-1	B454.11	Primary vulval cancer	275419009	411399019	32
+482690017	200	B451	B451.00	Malignant neoplasm of labia majora	363446004	482690017	32
+1210566016	100	B453	B453.00	Malignant neoplasm of clitoris	371979001	1210566016	32
+289209019	200	B4510	B451000	Malignant neoplasm of greater vestibular (Bartholin's) gland	188211001	289209019	32
+482691018	200	B452	B452.00	Malignant neoplasm of labia minora	363447008	482691018	32
+289210012	50	B451z	B451z00	Malignant neoplasm of labia majora NOS	363446004	482690017	32
+289182019	10000	B41z	B41z.00	Malignant neoplasm of cervix uteri NOS	363354003	1228493018	32
+155218017	3000	B410	B410.00	Malignant neoplasm of endocervix	372097009	1210675010	32
+289178016	700	B41y	B41y.00	Malignant neoplasm of other site of cervix	363354003	482507015	32
+289173013	300	B410z	B410z00	Malignant neoplasm of endocervix NOS	372097009	1210675010	32
+155231010	600	B411	B411.00	Malignant neoplasm of exocervix	372099007	1210677019	32
+289181014	300	B41yz	B41yz00	Malignant neoplasm of other site of cervix NOS	363354003	482507015	32
+289171010	600	B4100	B410000	Malignant neoplasm of endocervical canal	188176007	289171010	32
+289175018	80	B412	B412.00	Malignant neoplasm, overlapping lesion of cervix uteri	188180002	289175018	32
+289172015	40	B4101	B410100	Malignant neoplasm of endocervical gland	188177003	289172015	32
+289179012	30	B41y0	B41y000	Malignant neoplasm of cervical stump	188183000	289179012	32
+289180010	400	B41y1	B41y100	Malignant neoplasm of squamocolumnar junction of cervix	188184006	289180010	32
+289190019	60000	B4302	B430200	Malignant neoplasm of endometrium of corpus uteri	188192002	289190019	32
+1228493018	50000	B41	B41..00	Malignant neoplasm of cervix uteri	363354003	1228493018	32
+543481000006111	20000	B41-1	B41..11	Malignant tumour of cervix	363354003	482507015	32
+289166015	10000	B40	B40..00	Malignant neoplasm of uterus	371973000	1210562019	32
+1210561014	30000	B43	B43..00	Malignant neoplasm of body of uterus	371972005	1210561014	32
+289198014	3000	B43z	B43z.00	Malignant neoplasm of body of uterus NOS	371972005	1210561014	32
+289187013	300	B430	B430.00	Malignant neoplasm of corpus uteri, excluding isthmus	188189001	289187013	32
+980021000006113	10000	B4302-1	B430211	Malignant neoplasm of endometrium	188192002	289190019	32
+289192010	300	B430z	B430z00	Malignant neoplasm of corpus uteri NOS	188189001	289187013	32
+289197016	400	B43y	B43y.00	Malignant neoplasm of other site of uterine body	371972005	1210561014	32
+289191015	200	B4303	B430300	Malignant neoplasm of myometrium of corpus uteri	188193007	289191015	32
+289193017	20	B431	B431.00	Malignant neoplasm of isthmus of uterine body	188195000	289193017	32
+289189011	20	B4301	B430100	Malignant neoplasm of fundus of corpus uteri	188191009	289189011	32
+289188015	40	B4300	B430000	Malignant neoplasm of cornu of corpus uteri	188190005	289188015	32
+289194011	90	B4310	B431000	Malignant neoplasm of lower uterine segment	188195000	3491683016	32
+289195012	30	B431z	B431z00	Malignant neoplasm of isthmus of uterine body NOS	188195000	289193017	32
+726271000006117	3000	B441	B441.00	Malignant neoplasm of fallopian tube	363444001	482686019	32
+292139019	100	Byu70	Byu7000	[X]Malignant neoplasm of uterine adnexa, unspecified	428322007	2694321016	32
+289204012	400	B44z	B44z.00	Malignant neoplasm of uterine adnexa NOS	428322007	2694321016	32
+1228570010	70000	B440-1	B440.11	Cancer of ovary	363443007	1228570010	32
+723281000006111	100000	B440	B440.00	Malignant tumour of ovary	363443007	482684016	32
+552661000006114	600	B420	B420.00	Choriocarcinoma	188188009	289184018	32
+289242018	2000	B48	B48..00	Malignant neoplasm of penis and other male genital organs	363515000	482817018	32
+289249010	4000	B483	B483.00	Malignant tumour of penis	363516004	482819015	32
+725771000006116	3000	B481	B481.00	Malignant neoplasm of glans penis	363451005	482698012	32
+289246015	800	B482	B482.00	Malignant neoplasm of body of penis	188230001	289246015	32
+1228575017	500	B480	B480.00	Malignant neoplasm of prepuce (foreskin)	363450006	1228575017	32
+722361000006115	2000000	B46	B46..00	Malignant tumour of prostate	399068003	1773293010	32
+721171000006119	40000	B47	B47..00	Malignant tumour of testis	363449006	482694014	32
+380180017	20000	B47z-1	B47z.11	Seminoma of testis	255107005	380180017	32
+457319014	3000	B4710	B471000	Seminoma of descended testis	313429000	457319014	32
+109381000006117	7000	B47z-2	B47z.12	Malignant teratoma of testis	416769008	2549298016	32
+403702017	6000	B47z	B47z.00	Malignant neoplasm of testis NOS	363449006	482694014	32
+109371000006115	2000	B4711	B471100	Malignant teratoma of descended testis	417554000	2548606013	32
+457318018	500	B4702	B470200	Seminoma of undescended testis	313428008	457318018	32
+109391000006119	100	B4703	B470300	Teratoma of undescended testis	417417007	2548377014	32
+174562015	400	B471	B471.00	Malignant neoplasm of descended testis	109876001	174562015	32
+289223017	30	B470	B470.00	Malignant neoplasm of undescended testis	188219004	289223017	32
+473991000000119	100	B471z	B471z00	Malignant neoplasm of descended testis	1090261000000108	2731381000000113	32
+289234019	30	B470z	B470z00	Malignant neoplasm of undescended testis NOS	188219004	289220019	32
+726141000006116	20	B484	B484.00	Malignant neoplasm of epididymis	363452003	482700015	32
+721701000006112	60	B485	B485.00	Malignant neoplasm of spermatic cord	363453008	482702011	32
+289257013	10	B48y1	B48y100	Malignant neoplasm of tunica vaginalis	188235006	289257013	32
+289285010	40000	B4A0	B4A0.00	Malignant neoplasm of kidney parenchyma	188250002	289285010	32
+729481000006112	20000	B4A	B4A..00	Malignant tumour of urinary system	419052002	2577717014	32
+177051000006111	30000	B4A-1	B4A..11	Malignant tumour of kidney	363518003	482823011	32
+289299014	20000	B4Az	B4Az.00	Malignant tumour of urinary system	419052002	2577717014	32
+289288012	2000	B4A00	B4A0000	Hypernephroma	702391001	3648998018	32
+720961000006117	7000	B4A2	B4A2.00	Malignant tumour of ureter	363458004	482713014	32
+722481000006116	5000	B4A1	B4A1.00	Malignant tumour of renal pelvis	363457009	482710012	32
+720991000006113	1000	B4A3	B4A3.00	Malignant neoplasm of urethra	363459007	482714015	32
+289296019	600	B4A1z	B4A1z00	Malignant neoplasm of renal pelvis NOS	363457009	482710012	32
+722471000006119	200	B4A10	B4A1000	Malignant neoplasm of renal calyces	188252005	289289016	32
+289294016	40	B4A11	B4A1100	Malignant neoplasm of ureteropelvic junction	188253000	289294016	32
+1786811017	300000	B49	B49..00	Malignant neoplasm of urinary bladder	399326009	1786811017	32
+289281018	30000	B49z	B49z.00	Malignant neoplasm of urinary bladder NOS	399326009	1786811017	32
+289270016	1000	B492	B492.00	Malignant neoplasm of lateral wall of urinary bladder	188241004	289270016	32
+289276010	1000	B496	B496.00	Malignant neoplasm of ureteric orifice	188245008	289276010	32
+289272012	600	B494	B494.00	Malignant neoplasm of posterior wall of urinary bladder	188243001	289272012	32
+289275014	1000	B495	B495.00	Malignant neoplasm of bladder neck	188244007	289275014	32
+289279015	300	B49y	B49y.00	Malignant neoplasm of other site of urinary bladder	399326009	1773307015	32
+289262014	600	B490	B490.00	Malignant neoplasm of trigone of urinary bladder	188239000	289262014	32
+289271017	200	B493	B493.00	Malignant neoplasm of anterior wall of urinary bladder	188242006	289271017	32
+289267015	200	B491	B491.00	Malignant neoplasm of dome of urinary bladder	188240003	289267015	32
+720951000006119	400	B497	B497.00	Malignant neoplasm of urachus	363456000	482708010	32
+727181000006113	3000	B506	B506.00	Malignant neoplasm of choroid	363466008	482728014	32
+1208876015	5000	B50	B50..00	Malignant neoplasm of eye	363461003	1208876015	32
+409844012	3000	B509	B509.00	Malignant melanoma of eye	274087000	409844012	32
+722521000006116	500	B505	B505.00	Malignant neoplasm of retina	363465007	482726013	32
+726371000006114	400	B503	B503.00	Malignant neoplasm of conjunctiva	363463000	482722010	32
+289308013	200	B5000	B500000	Malignant neoplasm of ciliary body	188263008	289308013	32
+723541000006115	400	B501	B501.00	Malignant neoplasm of orbit	363462005	482720019	32
+289330014	200	B50z	B50z.00	Malignant neoplasm of eye NOS	363461003	1208876015	32
+289311014	100	B5001	B500100	Malignant neoplasm of iris	188264002	289311014	32
+289329016	100	B50y	B50y.00	Malignant neoplasm of other specified site of eye	363461003	1208876015	32
+289316016	30	B500z	B500z00	Malignant neoplasm of eyeball NOS	188261005	289305011	32
+1217367011	30	B508	B508.00	Malignant neoplasm, overlapping lesion of eye and adnexa	109948008	1217367011	32
+289319011	90	B501z	B501z00	Malignant neoplasm of orbit NOS	363462005	482720019	32
+289322013	100	B502	B502.00	Malignant neoplasm of lacrimal gland	188272000	289322013	32
+726561000006114	30	B504	B504.00	Malignant neoplasm of cornea	363464006	482724011	32
+724721000006116	20	B507	B507.00	Malignant neoplasm of lacrimal duct	188272000	289322013	32
+289317013	10	B5010	B501000	Malignant neoplasm of connective tissue of orbit	188268004	289317013	32
+289314018	2	B5002	B500200	Malignant neoplasm of crystalline lens	188265001	289314018	32
+289325010	40	B5070	B507000	Malignant neoplasm of lacrimal sac	188273005	289325010	32
+729311000006110	30	B500	B500.00	Malignant neoplasm of eyeball excluding conjunctiva, cornea, retina and choroid	188261005	289305011	32
+289326011	100	B5071	B507100	Malignant neoplasm of nasolacrimal duct	188274004	289326011	32
+315301000006115	40	BBbG-2	BBbG.12	[M]Piloid astrocytoma	128854008	207484016	32
+482737014	200	B521	B521.00	Malignant neoplasm of cerebral meninges	363474009	482737014	32
+724681000006111	70	B52X	B52X.00	Malignant neoplasm of meninges, unspecified	363497007	482781018	32
+482740014	20	B523	B523.00	Malignant neoplasm of spinal meninges	363476006	482740014	32
+289379018	20	B521z	B521z00	Malignant neoplasm of cerebral meninges NOS	363474009	482737014	32
+289375012	2	B5210	B521000	Malignant neoplasm of cerebral dura mater	188312005	289375012	32
+289383018	20	B523z	B523z00	Malignant neoplasm of spinal meninges NOS	363497007	482781018	32
+289378014	3	B5212	B521200	Malignant neoplasm of cerebral pia mater	188315007	289378014	32
+292152012	100	ByuA2	ByuA200	Malignant tumour of meninges	363497007	482781018	32
+2692069010	50000	B51	B51..00	Malignant neoplasm of brain	428061005	2692069010	32
+543111000006111	2000	B51-1	B51..11	Cerebral tumour - malignant	428061005	2692069010	32
+289365014	7000	B51z	B51z.00	Malignant neoplasm of brain NOS	428061005	2692069010	32
+309601000006114	2000	BBTF	BBTF.00	Haemangioblastoma	81201000	504640012	32
+482730011	3000	B511	B511.00	Malignant neoplasm of frontal lobe	363467004	482730011	32
+482732015	2000	B513	B513.00	Malignant neoplasm of parietal lobe	363469001	482732015	32
+727771000006111	2000	B510	B510.00	Malignant neoplasm of cerebrum (excluding lobes and ventricles)	188280007	289336015	32
+144849016	2000	B546	B546.00	Neuroblastoma	87364003	144849016	32
+155175018	2000	B516	B516.00	Malignant neoplasm of cerebellum	449420002	2899889012	32
+482731010	1000	B512	B512.00	Malignant neoplasm of temporal lobe	363468009	482731010	32
+289346018	700	B510z	B510z00	Malignant neoplasm of cerebrum NOS	188280007	289336015	32
+722961000006116	500	B543	B543.00	Malignant neoplasm of pineal gland	363483004	482752019	32
+289413011	100	B545	B545.00	Primary malignant neoplasm of paraganglion	93941005	510894017	32
+289409016	100	B5421	B542100	Malignant neoplasm of craniopharyngeal duct	188340000	289409016	32
+482733013	400	B514	B514.00	Malignant neoplasm of occipital lobe	363470000	482733013	32
+155269017	100	B5450	B545000	Malignant neoplasm of glomus jugulare	93814004	155269017	32
+289338019	100	B5101	B510100	Malignant neoplasm of cerebral cortex	188282004	289338019	32
+289349013	300	B512z	B512z00	Malignant neoplasm of temporal lobe NOS	363468009	482731010	32
+727511000006114	1000	B517	B517.00	Malignant neoplasm of brainstem	363473003	482736017	32
+289360016	100	B51y	B51y.00	Malignant neoplasm of other parts of brain	428061005	2692069010	32
+289337012	50	B5100	B510000	Malignant neoplasm of basal ganglia	188281006	289337012	32
+289345019	200	B5105	B510500	Malignant neoplasm of thalamus	188287005	289345019	32
+289361017	50	B51y0	B51y000	Malignant neoplasm of corpus callosum	188301005	289361017	32
+289358018	70	B5173	B517300	Malignant neoplasm of pons	188298006	289358018	32
+729501000006119	40	B52	B52..00	Malig neop of other and unspecified parts of nervous system	372063002	1210641014	32
+289352017	200	B5150	B515000	Malignant neoplasm of choroid plexus	188292007	289352017	32
+155168019	50	B544	B544.00	Malignant neoplasm of carotid body	447883002	2900052019	32
+305351000006119	10	BBTF-1	BBTF.11	[M]Angioblastoma	81201000	134726013	32
+727521000006118	100	B517z	B517z00	Malignant neoplasm of brain stem NOS	363473003	482736017	32
+289343014	600	B5104	B510400	Malignant neoplasm of hypothalamus	188286001	289343014	32
+482734019	40	B515	B515.00	Malignant neoplasm of cerebral ventricles	363471001	482734019	32
+289356019	70	B5171	B517100	Malignant neoplasm of medulla oblongata	188296005	289356019	32
+289355015	30	B5170	B517000	Malignant neoplasm of cerebral peduncle	188295009	289355015	32
+289357011	10	B5172	B517200	Malignant neoplasm of midbrain	188297001	289357011	32
+289364013	20	B51yz	B51yz00	Malignant neoplasm of other part of brain NOS	428061005	2692069010	32
+289347010	7	B5120	B512000	Malignant neoplasm of hippocampus	188289008	289347010	32
+730041000006115	30	B542z	B542z00	Malig neop pituitary gland or craniopharyngeal duct NOS	188339002	289407019	32
+289341011	5	B5103	B510300	Malignant neoplasm of globus pallidus	188285002	289341011	32
+309231000006115	20000	BBbL-1	BBbL.11	Glioblastoma multiforme	63634009	105761014	32
+1229453012	20000	BBbB	BBbB.00	[M]Astrocytoma NOS	38713004	1229453012	32
+291835012	7000	BBbQ	BBbQ.00	Oligodendroglioma - category	443565000	2840882012	32
+403757015	30000	BBbL	BBbL.00	Glioblastoma	63634009	105759017	32
+291825018	6000	BBb7	BBb7.00	Ependymoma - category	443354006	2838585015	32
+291836013	4000	BBbT	BBbT.00	Medulloblastoma	83217000	138016017	32
+315291000006116	5000	BBbG	BBbG.00	Pilocytic astrocytoma	128854008	207484016	32
+305701000006117	6000	BBbC	BBbC.00	Anaplastic astrocytoma	55353007	1231460011	32
+314281000006115	2000	BBbR	BBbR.00	Anaplastic oligodendroglioma	3102004	1227417016	32
+1216595017	800	BBba	BBba.00	[M]Primitive neuroectodermal tumour	39781001	1216596016	32
+317141000006110	100	BBb3-2	BBb3.12	Subependymal glioma	4553004	7832012	32
+313601000006113	600	BBbA	BBbA.00	Myxopapillary ependymoma	1623000	3812012	32
+308461000006115	200	BBbF	BBbF.00	[M]Fibrillary astrocytoma	71314006	118456018	32
+1230234015	500	BBb3-3	BBb3.13	[M]Subependymoma	4553004	1230234015	32
+308091000006116	1000	BBb8	BBb8.00	Ependymoma, anaplastic	21589007	36220016	32
+308961000006113	300	BBbE	BBbE.00	Gemistocytic astrocytoma	73982001	122858018	32
+310731000006117	400	BBbG-1	BBbG.11	[M]Juvenile astrocytoma	128854008	207484016	32
+314261000006113	100	BBbS	BBbS.00	[M]Oligodendroblastoma	80061003	132826019	32
+1234296013	200	BBbZ	BBbZ.00	[M]Pleomorphic xanthoastrocytoma	78838008	1234295012	32
+1221241014	100	BBb4	BBb4.00	[M]Subependymal giant cell astrocytoma	1586004	1221241014	32
+309091000006112	300	BBbM	BBbM.00	[M]Giant cell glioblastoma	44529004	74269012	32
+307571000006110	200	BBbU	BBbU.00	[M]Desmoplastic medulloblastoma	32456001	54190011	32
+317131000006117	100	BBb3-1	BBb3.11	Subependymal glioma	4553004	7832012	32
+314881000006119	20	BBb9	BBb9.00	[M]Papillary ependymoma	128839002	207435012	32
+313831000006118	20	BBc7-1	BBc7.11	[M]Neuroastrocytoma	128858006	207494014	32
+721751000006111	1000	B522	B522.00	Malignant neoplasm of spinal cord	363475005	482738016	32
+482741013	100	B525	B525.00	Malignant neoplasm of cauda equina	363477002	482741013	32
+727841000006110	80	B5202	B520200	Malignant neoplasm of acoustic nerve	254980001	379934019	32
+155425014	100	B5201	B520100	Malignant neoplasm of optic nerve	363498002	482783015	32
+720631000006115	20	B51y2	B51y200	Overlapping malignant neoplasm of brain	109912006	174605010	32
+726641000006111	10	B520	B520.00	Malignant neoplasm of cranial nerves	188307009	289367018	32
+289369015	30	B5200	B520000	Malignant neoplasm of olfactory bulb	188308004	289369015	32
+289374011	7	B520z	B520z00	Malignant neoplasm of cranial nerves NOS	188307009	289367018	32
+721291000006110	80000	B53	B53..00	Malignant tumour of thyroid gland	363478007	482743011	32
+444773019	5000	B540-1	B540.11	Phaeochromocytoma	302835009	444773019	32
+155072018	1000	B540	B540.00	Malignant neoplasm of adrenal gland	363355002	482509017	32
+289406011	400	B540z	B540z00	Malignant tumour of adrenal gland	363355002	482510010	32
+1210553016	300	B5400	B540000	Malignant neoplasm of adrenal cortex	371964008	1210553016	32
+1210554010	50	B5401	B540100	Malignant neoplasm of adrenal medulla	371965009	1210554010	32
+723441000006116	1000	B541	B541.00	Malignant neoplasm of parathyroid gland	363481002	482748019	32
+722981000006114	800	B5420	B542000	Malignant neoplasm of pituitary gland	363482009	482750010	32
+720481000006117	50	B542	B542.00	Malignant neoplasm of pituitary gland and craniopharyngeal duct	188339002	289407019	32
+403704016	40000	B590	B590.00	Disseminated malignancy	405843009	2163172012	32
+450901012	20000	B590-1	B590.11	Carcinomatosis	307593001	450901012	32
+313711000006115	70000	BB03	BB03.00	Neoplasm, metastatic	14799000	25140016	32
+739801000006115	90000	B577-1	B577.11	Metastasis to liver	94381002	511275014	32
+291327015	200000	BB13	BB13.00	Carcinoma, metastatic	79282002	131542017	32
+1235814012	40000	B585	B585.00	Secondary malignant neoplasm of bone and bone marrow	94222008	1235814012	32
+151421000006117	60000	B58	B58..00	Secondary malignant neoplastic disease	128462008	206784011	32
+543041000006111	40000	B5832	B583200	Cerebral metastases	94248000	1235820013	32
+156319016	30000	B570	B570.00	Secondary malignant neoplasm of lung	94391008	156319016	32
+156291015	30000	B577	B577.00	Secondary malignant neoplasm of liver	94381002	156291015	32
+155879014	10000	B5830	B583000	Secondary malignant neoplasm of brain	94225005	155879014	32
+459732012	10000	1D18	1D18.00	Pain from metastases	315241008	459732012	27
+291374012	40000	BB53	BB53.00	Adenocarcinoma, metastatic	4590003	7897016	32
+732441000006113	8000	B56-1	B56..11	Lymph node metastases	94392001	156323012	32
+704711000006119	5000	B57-1	B57..11	Metastases of respiratory and/or digestive systems	269473008	403703010	32
+291348018	10000	BB2B	BB2B.00	Squamous cell carcinoma, metastatic	64204000	106728012	32
+216227011	5000	B5850	B585000	Pathological fracture due to metastatic bone disease	134421000	216227011	32
+289559010	3000	B58z	B58z.00	Secondary malignant neoplasm of other specified site NOS	128462008	206784011	32
+406333010	3000	B56	B56..00	Secondary malignant neoplasm of lymph node	94392001	156323012	32
+151331000006114	1000	B153	B153.00	Secondary malignant neoplasm of liver	94381002	156291015	32
+289546019	3000	B583	B583.00	Secondary malignant neoplasm of brain and spinal cord	188462001	289546019	32
+511250010	3000	B58y0	B58y000	Secondary malignant neoplasm of breast	94297009	511250010	32
+156607018	3000	B58y5	B58y500	Secondary malignant neoplasm of prostate	94503003	156607018	32
+156777013	1000	B582	B582.00	Secondary malignant neoplasm of skin	94579000	156777013	32
+156585018	900	B572	B572.00	Secondary malignant neoplasm of pleura	94493005	156585018	32
+151401000006110	1000	B58yz	B58yz00	Secondary malignant neoplasm of other specified site NOS	128462008	206784011	32
+406266011	2000	B58y	B58y.00	Secondary malignant neoplasm of other specified sites	128462008	206784011	32
+1235875018	2000	B5761	B576100	Secondary malignant neoplasm of peritoneum	94627008	1235875018	32
+292165015	500	ByuC7	ByuC700	[X]Secondary malignant neoplasm of other specified sites	128462008	206784011	32
+157781000006115	400	B56z	B56z.00	Secondary and unspec malig neop lymph nodes NOS	94392001	156323012	32
+453241012	700	C354A	C354A00	Metastatic calcification	309760004	453241012	32
+313691000006118	1000	BB04	BB04.00	Malignant tumour - uncertain whether primary or metastatic	6219000	1216799013	32
+151111000006118	1000	B57	B57..00	Secondary malignant neoplasm of respiratory and digestive systems	269473008	403703010	32
+316301000006114	1000	BB03-1	BB03.11	[M]Secondary neoplasm	14799000	25140016	32
+156237018	1000	B580	B580.00	Secondary malignant neoplasm of kidney	94360002	156237018	32
+155711012	1000	B587	B587.00	Secondary malignant neoplasm of adrenal gland	94161006	155711012	32
+156825010	3000	B5831	B583100	Metastasis to spinal cord	94600009	1235865016	32
+157521000006111	1000	B5630	B563000	Secondary malignant neoplasm of axillary lymph nodes	94181007	155759012	32
+155967013	600	B5750	B575000	Secondary malignant neoplasm of colon	94260004	155967013	32
+156493015	2000	B586	B586.00	Secondary malignant neoplasm of ovary	94455000	156493015	32
+155773015	700	B5811	B581100	Secondary malignant neoplasm of bladder	94186002	155773015	32
+409845013	900	B594	B594.00	Secondary malignant neoplasm of unknown site	274088005	409845013	32
+156699010	200	B5826	B582600	Secondary malignant neoplasm of skin of breast	94544002	156699010	32
+157761000006113	1000	B560	B560.00	Metastasis to head and neck lymph node	303194003	445248014	32
+157871000006110	100	B5619	B561900	Secondary malignant neoplasm of bronchopulmonary lymph nodes	94227002	155885019	32
+289530010	300	B57y	B57y.00	Secondary malignant neoplasm of gastrointestinal tract	94313005	156111011	32
+156375015	300	B571	B571.00	Secondary malignant neoplasm of mediastinum	94409002	156375015	32
+425771000006113	30	ByuC3	ByuC300	Secondary malignant neoplasm of respiratory tract	94515004	156631011	32
+151321000006111	200	B575	B575.00	Secondary malignant neoplasm of large intestine	94365007	156249017	32
+396281000006111	200	ByuC	ByuC.00	[X]Malignant neoplasm of ill-defined, secondary and unspecified sites	363346000	482491013	32
+289545015	300	B582z	B582z00	Secondary malignant neoplasm of skin NOS	94579000	156777013	32
+157481000006111	300	B5613	B561300	Secondary malignant neoplasm of mediastinal lymph nodes	94408005	156373010	32
+156765015	100	B5823	B582300	Secondary malignant neoplasm of skin of trunk	94575006	156765015	32
+289515018	200	B573	B573.00	Secondary malignant neoplasm of respiratory tract	94515004	156631011	32
+157711000006110	300	B562	B562.00	Secondary and unspec malig neop intra-abdominal lymph nodes	94347008	156199014	32
+1215809015	200	B5760	B576000	Secondary malignant neoplasm of retroperitoneum	94628003	1215809015	32
+157501000006118	300	B563	B563.00	Secondary malignant neoplasm of lymph nodes of upper limb	94398002	156345013	32
+425781000006111	70	ByuC4	ByuC400	Secondary malignant neoplasm of gastrointestinal tract	94313005	156111011	32
+289549014	60	B583z	B583z00	Secondary malignant neoplasm of brain or spinal cord NOS	188462001	289546019	32
+156627017	200	B5751	B575100	Secondary malignant neoplasm of rectum	94513006	156627017	32
+157771000006118	100	B56y	B56y.00	Secondary and unspec malig neop lymph nodes multiple sites	303201005	445249018	32
+151121000006114	70	B57z	B57z.00	Secondary malig neop of respiratory or digestive system NOS	269473008	403703010	32
+157025019	100	B58y4	B58y400	Secondary malignant neoplasm of vulva	94681006	157025019	32
+157731000006116	200	B565	B565.00	Secondary and unspec malig neop intrapelvic lymph nodes	94350006	156209013	32
+156989015	100	B58y1	B58y100	Secondary malignant neoplasm of uterus	94665001	156989015	32
+157751000006111	90	B561	B561.00	Secondary and unspec malig neop intrathoracic lymph nodes	94351005	156213018	32
+151131000006112	200	B576	B576.00	Secondary malignant neoplasm of retroperitoneum and peritoneum	188445006	289527015	32
+157661000006116	200	B564	B564.00	Secondary and unspec malig neop inguinal and lower limb LN	94395004	156335011	32
+157701000006112	50	B562z	B562z00	Secondary and unspec malig neop intra-abdominal LN NOS	94347008	156199014	32
+157921000006117	200	B5602	B560200	Secondary malignant neoplasm of superficial cervical lymph nodes	1090141000000102	2731141000000119	32
+289553011	100	B58y2	B58y200	Secondary malignant neoplasm of cervix uteri	188469005	289553011	32
+289543010	40	B5825	B582500	Secondary malignant neoplasm of skin of hip and leg	188459004	289543010	32
+289535017	60	B581	B581.00	Secondary malignant neoplasm of other urinary organs	94663008	156981017	32
+156747019	70	B5822	B582200	Secondary malignant neoplasm of skin of neck	94566009	156747019	32
+289538015	60	B5820	B582000	Secondary malignant neoplasm of skin of head	188454009	289538015	32
+157931000006119	50	B5640	B564000	Secondary malignant neoplasm of superficial inguinal lymph nodes	94612008	156857011	32
+299676019	40	G2400	G240000	Secondary malignant renovascular hypertension	194783001	299676019	32
+157891000006111	30	B5605	B560500	Secondary malignant neoplasm of submandibular lymph nodes	94609005	156851012	32
+156719018	40	B5821	B582100	Secondary malignant neoplasm of skin of face	94554003	156719018	32
+289536016	10	B581z	B581z00	Secondary malignant neoplasm of other urinary organ NOS	94663008	156981017	32
+157831000006112	70	B5615	B561500	Secondary and unspec malig neop paratracheal lymph nodes	1090081000000106	2731021000000110	32
+157571000006112	40	B5609	B560900	Secondary malignant neoplasm of deep cervical lymph nodes	1090121000000109	2731101000000117	32
+157811000006118	80	B564z	B564z00	Secondary and unspec malig neop of inguinal and leg LN NOS	94395004	156335011	32
+156557015	60	B58y7	B58y700	Secondary malignant neoplasm of penis	94481001	156557015	32
+156007019	100	B5740	B574000	Secondary malignant neoplasm of duodenum	94275007	156007019	32
+151101000006116	10	B575z	B575z00	Secondary malig neop of large intestine or rectum NOS	94365007	156249017	32
+156977017	40	B5812	B581200	Secondary malignant neoplasm of urethra	94661005	156977017	32
+157821000006114	70	B5600	B560000	Secondary malignant neoplasm of parotid lymph nodes	94475009	156541015	32
+157491000006114	70	B5608	B560800	Secondary malignant neoplasm of anterior cervical lymph nodes	1090131000000106	2731121000000114	32
+156919012	40	B58y9	B58y900	Secondary malignant neoplasm of tongue	94638008	156919012	32
+156997010	100	B58y3	B58y300	Secondary malignant neoplasm of vagina	94668004	156997010	32
+151151000006117	10	B574z	B574z00	Secondary malig neop of small intestine or duodenum NOS	94580002	156781013	32
+151621000006119	80	B574	B574.00	Secondary malignant neoplasm of small intestine	94580002	156781013	32
+157861000006115	30	B5614	B561400	Secondary and unspec malig neop post mediastinal lymph nodes	94408005	156373010	32
+157841000006119	10	B5633	B563300	Secondary malignant neoplasm of pectoral axillary lymph nodes	94477001	156545012	32
+157691000006112	9	B5610	B561000	Secondary malignant neoplasm of internal mammary lymph nodes	1090091000000108	2731041000000115	32
+157551000006119	30	B5620	B562000	Secondary malignant neoplasm of coeliac lymph nodes	1090191000000107	2731241000000112	32
+157531000006114	20	B5618	B561800	Secondary and unspec malig neop bronchopulmonary lymph nodes	94227002	155885019	32
+157511000006115	7	B563z	B563z00	Secondary and unspec malig neop axilla and upper limb LN NOS	94398002	156345013	32
+157651000006118	20	B5632	B563200	Secondary malignant neoplasm of infraclavicular lymph nodes	94338000	156175014	32
+157591000006113	30	B5604	B560400	Secondary malignant neoplasm of parotid lymph nodes	94475009	156541015	32
+157561000006117	70	B5623	B562300	Secondary malignant neoplasm of iliac lymph nodes	94336001	156171017	32
+289542017	40	B5824	B582400	Secondary malignant neoplasm of skin of shoulder and arm	188458007	289542017	32
+289550014	80	B584	B584.00	Secondary malignant neoplasm of other part of nervous system	94442001	156461011	32
+156883018	50	B58y6	B58y600	Secondary malignant neoplasm of testis	94623007	156883018	32
+157901000006110	20	B5607	B560700	Secondary malignant neoplasm of submental lymph nodes	94611001	156855015	32
+157681000006114	20	B5650	B565000	Secondary malignant neoplasm of internal iliac lymph nodes	1090221000000100	2731301000000115	32
+157611000006119	20	B5624	B562400	Secondary and unspec malig neop external iliac lymph nodes	94336001	156171017	32
+157741000006114	6	B561z	B561z00	Secondary and unspec malig neop intrathoracic LN NOS	94351005	156213018	32
+157721000006119	7	B565z	B565z00	Secondary and unspec malig neop intrapelvic LN NOS	94350006	156209013	32
+289554017	200	B58y2-1	B58y211	Secondary cancer of the cervix	188469005	289554017	32
+151141000006119	30	B576z	B576z00	Secondary malig neop of retroperitoneum or peritoneum NOS	188445006	289527015	32
+157631000006113	40	B5622	B562200	Secondary malignant neoplasm of mesenteric lymph nodes	94410007	156379014	32
+157581000006110	50	B5641	B564100	Secondary malignant neoplasm of deep inguinal lymph nodes	1090201000000109	2731261000000113	32
+157941000006112	8	B5621	B562100	Secondary malignant neoplasm of mesenteric lymph nodes	94410007	156379014	32
+157601000006117	7	B5612	B561200	Secondary malignant neoplasm of diaphragmatic lymph nodes	1090161000000101	2731181000000110	32
+314021000006111	70	BBy2	BBy2.00	[M]No microscopic confirmation of tumour, clinically metastatic	128462008	206783017	32
+312621000006112	300	BB851	BB85100	Metastatic signet ring cell carcinoma	4305004	8252015	32
+157801000006116	4	B5606	B560600	Secondary malignant neoplasm of lymph nodes of face	94393006	156327013	32
+157971000006116	60	B5603	B560300	Secondary malignant neoplasm of occipital lymph nodes	94449005	156479010	32
+156973018	70	B5810	B581000	Secondary malignant neoplasm of ureter	94659001	156973018	32
+157881000006113	5	B5653	B565300	Secondary malignant neoplasm of sacral lymph nodes	1090171000000108	2731201000000114	32
+157951000006114	4	B5631	B563100	Secondary malignant neoplasm of supratrochlear lymph nodes	1090101000000100	2731061000000119	32
+157911000006113	4	B5616	B561600	Secondary malignant neoplasm of tracheobronchial lymph nodes	94642006	156931014	32
+511385013	20	B58y4-1	B58y411	Secondary cancer of the vulva	94681006	511385013	32
+156231017	10	B5741	B574100	Secondary malignant neoplasm of jejunum	94357009	156231017	32
+289557012	1	B58y8	B58y800	Secondary malignant neoplasm of epididymis and vas deferens	188471005	2668736017	32
+156169017	40	B5742	B574200	Secondary malignant neoplasm of ileum	94335002	156169017	32
+157541000006116	2	B5652	B565200	Secondary malignant neoplasm of circumflex iliac lymph nodes	1090211000000106	2731281000000116	32
+157641000006115	2	B5617	B561700	Secondary malignant neoplasm of tracheobronchial lymph nodes	94642006	156931014	32
+157671000006111	2	B5611	B561100	Secondary malignant neoplasm of intercostal lymph nodes	94344001	156191012	32
+157961000006111	30	B5601	B560100	Secondary malignant neoplasm of mastoid lymph nodes	1090151000000104	2731161000000118	32
+587201000006115	100000	B627	B627.00	Non-Hodgkin's lymphoma	118601006	2663475013	32
+2663473018	60000	B61	B61..00	Hodgkin's disease	118599009	2663473018	32
+728721000006111	20000	B62y	B62y.00	Malignant lymphoma	118600007	2663474012	32
+2663191017	10000	B621	B621.00	Mycosis fungoides	118618005	2663191017	32
+763421000006116	20000	B627C-1	B627C11	Follicular lymphoma NOS	308121000	451429010	32
+289820010	7000	B62x	B62x.00	Malignant lymphoma (clinical)	118600007	177019017	32
+289829011	3000	B62yz	B62yz00	Malignant lymphoma NOS	118600007	2663474012	32
+451429010	10000	B627C	B627C00	Follicular non-Hodgkin's lymphoma	308121000	451429010	32
+1815151000006116	3000	B628	B628.00	Follicular lymphoma	308121000	451429010	32
+82041000006113	20000	B627W	B627W00	B-cell non-Hodgkin's lymphoma	1091921000000103	2734911000000119	32
+198006010	20000	B627E	B627E00	Diffuse large B-cell lymphoma	847741000000106	2197851000000117	32
+1220414014	4000	B614	B614.00	Hodgkin's disease, nodular sclerosis	118608000	1220414014	32
+406154013	9000	ByuDF	ByuDF00	Non-Hodgkin's lymphoma (clinical)	118601006	177020011	32
+400011000006119	3000	ByuDF-1	ByuDF11	[X]Non-Hodgkin's lymphoma NOS	118601006	2663475013	32
+2663190016	3000	B602	B602.00	Burkitt's lymphoma	118617000	2663190016	32
+1815031000006110	6000	B61-1	B61..11	Hodgkin lymphoma	118599009	2663473018	32
+123978016	7000	B62F1	B62F100	Mantle cell lymphoma	443487006	2839720017	32
+673611000006113	200	B620	B620.00	Nodular lymphoma	269476000	403709014	32
+826121000006114	1000	B61z	B61z.00	Hodgkin's disease NOS	118599009	2663473018	32
+289847017	100	B62y8	B62y800	Malignant lymphoma of lymph nodes of multiple sites	93197009	154211018	32
+39671000006114	1000	B62xX	B62xX00	Cutaneous/peripheral T-cell lymphoma	277613000	414240018	32
+289702012	600	B61zz	B61zz00	Hodgkin's disease NOS	118599009	2663473018	32
+2659756011	2000	B62x2	B62x200	Peripheral T-cell lymphoma	109977009	2659756011	32
+2839871014	1000	B627-1	B627.11	Non-Hodgkin lymphoma	118601006	2663475013	32
+621091000006113	900	B627X	B627X00	Diffuse non-Hodgkin's lymphoma, unspecified	109962001	174656018	32
+414257019	300	B6270	B627000	Follicular non-Hodgkin's small cleaved cell lymphoma	277625002	414257019	32
+1815461000006110	2000	B62F0	B62F000	Low grade B-cell lymphoma	277615007	414243016	32
+1668101000000112	900	B627A	B627A00	Diffuse non-Hodgkin's large cell lymphoma	109969005	1668101000000112	32
+621071000006112	600	B6277	B627700	Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)	109965004	174660015	32
+146651000006118	600	B622	B622.00	Sezary's disease	118611004	2821061019	32
+289813015	400	B627B	B627B00	Other types of follicular non-Hodgkin's lymphoma	308121000	451429010	32
+414278016	600	B6272	B627200	Follicular non-Hodgkin's large cell lymphoma	277641001	414278016	32
+289669014	400	B614z	B614z00	Hodgkin's disease, nodular sclerosis NOS	118608000	177027014	32
+292193016	900	ByuDE	ByuDE00	[X]Unspecified B-cell non-Hodgkin's lymphoma	1091921000000103	2734911000000119	32
+2663461018	700	B615	B615.00	Hodgkin's disease, mixed cellularity	118609008	2663461018	32
+289679011	100	B615z	B615z00	Hodgkin's disease, mixed cellularity NOS	118609008	177028016	32
+207325017	300	B62E	B62E.00	T-cell lymphoma	109978004	344696012	32
+289831019	500	B62y1	B62y100	Malignant lymphoma of lymph nodes of head, face AND/OR neck	93195001	154205016	32
+289739013	300	B621z	B621z00	Mycosis fungoides NOS	118618005	177037016	32
+289726014	100	B620z	B620z00	Nodular lymphoma NOS	269476000	403709014	32
+414252013	800	B6279	B627900	Mucosa-associated lymphoma	277622004	414252013	32
+289830018	100	B62y0	B62y000	Malignant lymphoma NOS of unspecified site	118600007	2663474012	32
+289704013	200	B61z1	B61z100	Hodgkin's disease of lymph nodes of head, face AND/OR neck	93524003	154823017	32
+826611000006110	200	B6141	B614100	Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck	188565002	289661012	32
+1220814017	20	BBv2	BBv2.00	[M]AngiocentricT-cell lymphoma	128805001	1220814017	32
+289718018	200	B6201	B620100	Nodular lymphoma of lymph nodes of head, face and neck	188609000	289718018	32
+292173012	90	ByuD2	ByuD200	[X]Other types of diffuse non-Hodgkin's lymphoma	109962001	174656018	32
+289705014	70	B61z2	B61z200	Hodgkin's disease of intrathoracic lymph nodes	93522004	154818017	32
+1815331000006113	2000	B62E3	B62E300	Cutaneous T-cell lymphoma	400122007	1787104010	32
+292083014	500	BBv0	BBv0.00	[M]Monocytoid B-cell lymphoma	128803008	207315010	32
+292174018	300	ByuD3	ByuD300	[X]Other specified types of non-Hodgkin's lymphoma	118601006	177020011	32
+1815171000006114	900	B6281	B628100	Follicular lymphoma grade 2	847631000000107	2197621000000114	32
+2168491000000113	400	B62E1	B62E100	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma	738770003	3533524018	32
+2534468012	700	B62E9	B62E900	Angioimmunoblastic T-cell lymphoma	1090241000000107	2731341000000117	32
+289846014	300	B62y7	B62y700	Malignant lymphoma of spleen	93198004	154213015	32
+2168431000000112	300	B617	B617.00	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)	118605002	177024019	32
+1815051000006115	400	B618	B618.00	Nodular sclerosis classical Hodgkin lymphoma	118608000	1220414014	32
+289727017	80	B6210	B621000	Mycosis fungoides of unspecified site	118618005	177037016	32
+2870725010	300	B627G	B627G00	Mediastinal (thymic) large B-cell lymphoma	444910004	2870725010	32
+289612010	200	B602z	B602z00	Burkitt's lymphoma NOS	118617000	2663190016	32
+1815091000006114	500	B61C	B61C.00	Other classical Hodgkin lymphoma	118599009	2663473018	32
+289799010	300	B6273	B627300	Diffuse non-Hodgkin's small cell (diffuse) lymphoma	188674006	289799010	32
+1815161000006119	1000	B6280	B628000	Follicular lymphoma grade 1	847481000000109	2197241000000116	32
+289717011	100	B6200	B620000	Nodular lymphoma of unspecified site	269476000	403709014	32
+289812013	200	B6278	B627800	Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)	188679001	289812013	32
+289842011	200	B62y3	B62y300	Malignant lymphoma of intra-abdominal lymph nodes	93191005	154196016	32
+292169014	100	ByuD0	ByuD000	[X]Other Hodgkin's disease	118599009	2663473018	32
+289703019	100	B61z0	B61z000	Hodgkin's disease NOS, unspecified site	118599009	177017015	32
+1815321000006110	300	B62E2	B62E200	Anaplastic large cell lymphoma, ALK negative	448212009	2900730018	32
+2663476014	20	B611	B611.00	Hodgkin's granuloma	118602004	2663476014	32
+728771000006112	70	B62y5	B62y500	Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb	93196000	154208019	32
+826651000006111	100	B6142	B614200	Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes	188566001	289662017	32
+289701017	70	B616z	B616z00	Hodgkin's disease, lymphocytic depletion NOS	118610003	177029012	32
+621041000006116	100	B6275	B627500	Diffuse non-Hodgkin's mixed small and large cell (diffuse) lymphoma	188676008	289807012	32
+2663187010	90	B616	B616.00	Hodgkin's disease, lymphocytic depletion	118610003	2663187010	32
+289711012	60	B61z8	B61z800	Hodgkin's disease of lymph nodes of multiple sites	93526001	154829018	32
+1219545019	30	B6276	B627600	Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma	109966003	1219545019	32
+289832014	90	B62y2	B62y200	Malignant lymphoma of intrathoracic lymph nodes	93193008	154200014	32
+289660013	200	B6140	B614000	Hodgkin's disease, nodular sclerosis of unspecified site	118608000	177027014	32
+763431000006118	20	B6271	B627100	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	188672005	289795016	32
+2168691000000110	300	B62F2	B62F200	Lymphoblastic (diffuse) lymphoma	109965004	2168691000000110	32
+344657018	300	B62x0	B62x000	T-zone lymphoma	109975001	344657018	32
+2124491000000113	500	B6283	B628300	Follicular lymphoma grade 3a	847691000000108	2197741000000110	32
+1815221000006115	200	B6286	B628600	Follicular lymphoma, cutaneous follicle centre	1091861000000100	2734771000000114	32
+1815451000006113	40	B62F	B62F.00	Nonfollicular lymphoma	109962001	2900154016	32
+728781000006110	30	B62y4	B62y400	Malignant lymphoma of lymph nodes of axilla AND/OR upper limb	93194002	154202018	32
+826181000006113	20	B61z4	B61z400	Hodgkin's disease of lymph nodes of axilla AND/OR upper limb	93523009	154820019	32
+157686016	30	B6203	B620300	Nodular lymphoma of intra-abdominal lymph nodes	95186006	157686016	32
+673681000006118	50	B6205	B620500	Nodular lymphoma of lymph nodes of inguinal region and lower limb	188613007	289722011	32
+157692010	40	B6208	B620800	Nodular lymphoma of lymph nodes of multiple sites	95192000	157692010	32
+444799014	80	B627D	B627D00	Diffuse non-Hodgkin's centroblastic lymphoma	302842009	444799014	32
+1815181000006112	400	B6282	B628200	Follicular lymphoma grade 3	847651000000100	2197671000000113	32
+2124511000000117	100	B6284	B628400	Follicular lymphoma grade 3b	847701000000108	2197761000000111	32
+344670010	200	B62x1	B62x100	Lymphoepithelioid lymphoma	109976000	344670010	32
+289603013	200	B6021	B602100	Burkitt's lymphoma of lymph nodes of head, face and neck	188510001	289603013	32
+289680014	20	B6160	B616000	Hodgkin's lymphocytic depletion of unspecified site	118610003	177029012	32
+683691000006113	9	B6215	B621500	Mycosis fungoides of lymph nodes of inguinal region and lower limb	94712003	157079011	32
+2168861000000117	10	B62F-1	B62F.11	Non-follicular lymphoma	118601006	2168861000000117	32
+289845013	20	B62y6	B62y600	Malignant lymphoma of intrapelvic lymph nodes	93192003	154198015	32
+292170010	50	ByuD1	ByuD100	[X]Other types of follicular non-Hodgkin's lymphoma	308121000	451429010	32
+289604019	10	B6022	B602200	Burkitt's lymphoma of intrathoracic lymph nodes	188511002	289604019	32
+826681000006115	90	B610	B610.00	Hodgkin lymphoma, nodular lymphocyte predominance (clinical)	118605002	202988019	32
+2663376010	10	B612	B612.00	Hodgkin's sarcoma	118606001	2663376010	32
+826631000006116	4	B6143	B614300	Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes	188567005	289663010	32
+826661000006113	60	B6144	B614400	Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb	188568000	289664016	32
+826671000006118	90	B6148	B614800	Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites	188572001	289668018	32
+826571000006117	100	B6151	B615100	Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck	188575004	289671014	32
+2870724014	200	B61B	B61B.00	Lymphocyte-rich classical Hodgkin lymphoma	118607005	2870724014	32
+1815101000006115	4000	B61z-1	B61z.11	Hodgkin's disease (clinical)	118599009	177017015	32
+1815401000006114	60	B62E8	B62E800	Blastic plasmacytoid dendritic cell neoplasm	445105005	2872334012	32
+292191019	300	ByuDC	ByuDC00	Diffuse non-Hodgkin's lymphoma	109962001	174656018	32
+289749011	70	B622z	B622z00	Sezary's disease NOS	118611004	177030019	32
+1230735015	80	BBl1	BBl1.00	[M]Sezary's disease	4950009	1230735015	32
+289629013	5	B6111	B611100	Hodgkin's granuloma of lymph nodes of head, face and neck	188534006	289629013	32
+289670010	30	B6150	B615000	Hodgkin's disease, mixed cellularity of unspecified site	118609008	177028016	32
+826561000006112	8	B6152	B615200	Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes	188576003	289672019	32
+289738017	4	B6218	B621800	Mycosis fungoides of lymph nodes of multiple sites	188627002	289738017	32
+2901912012	30	B6285	B628500	Diffuse follicle centre lymphoma	449220000	2901912012	32
+1815231000006117	20	B6287	B628700	Other types of follicular lymphoma	308121000	451429010	32
+2872841013	30	B62E5	B62E500	Hepatosplenic T-cell lymphoma	445406001	2872841013	32
+414298014	30	B62E6	B62E600	Enteropathy-associated T-cell lymphoma	277654008	414298014	32
+1815431000006118	10	B62Ew	B62Ew00	Other mature T/NK-cell lymphoma	277613000	414240018	32
+289605018	100	B6023	B602300	Burkitt's lymphoma of intra-abdominal lymph nodes	188512009	289605018	32
+527801000006112	10	B6025	B602500	Burkitt's lymphoma of lymph nodes of inguinal region and lower limb	188514005	289607014	32
+826751000006118	5	B6101	B610100	Hodgkin's paragranuloma of lymph nodes of head, face, and neck	93542008	154855017	32
+289621011	1	B6103	B610300	Hodgkin's paragranuloma of intra-abdominal lymph nodes	93493001	3635497016	32
+154811011	10	B6147	B614700	Hodgkin's disease, nodular sclerosis of spleen	93518009	154811011	32
+826581000006119	4	B6155	B615500	Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb	188579005	289675017	32
+826481000006118	3	B6165	B616500	Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb	188590000	289697015	32
+289699017	2	B6167	B616700	Hodgkin's disease, lymphocytic depletion of spleen	188592008	289699017	32
+826491000006115	20	B6168	B616800	Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites	188593003	289700016	32
+1815061000006118	100	B619	B619.00	Mixed cellularity classical Hodgkin lymphoma	118609008	2663461018	32
+289706010	10	B61z3	B61z300	Hodgkin's disease of intra-abdominal lymph nodes	93520007	154814015	32
+826171000006110	20	B61z5	B61z500	Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb	93525002	154826013	32
+289710013	9	B61z7	B61z700	Hodgkin's disease of spleen	93527005	154831010	32
+157688015	30	B6202	B620200	Nodular lymphoma of intrathoracic lymph nodes	95188007	157688015	32
+157075017	4	B6214	B621400	Mycosis fungoides of lymph nodes of axilla and upper limb	94710006	157075017	32
+289801013	8	B6274	B627400	Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma	188675007	289801013	32
+2534467019	60	B62E4	B62E400	Extranodal NK/T-cell lymphoma, nasal type	414166008	2534467019	32
+1815391000006112	7	B62E7	B62E700	Subcutaneous panniculitic T-cell lymphoma	404133000	2872133010	32
+344806015	10	B62x6	B62x600	True histiocytic lymphoma	109988003	344806015	32
+404441000006117	80	ByuDD	ByuDD00	[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas	277613000	414240018	32
+826471000006116	20	B6164	B616400	Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb	188589009	289696012	32
+289594015	2	B6012	B601200	Lymphosarcoma of intrathoracic lymph nodes	188501009	289594015	32
+289601010	30	B601z	B601z00	Lymphosarcoma NOS	188498009	289591011	32
+289595019	10	B6013	B601300	Lymphosarcoma of intra-abdominal lymph nodes	188502002	289595019	32
+289643015	2	B6124	B612400	Hodgkin's sarcoma of lymph nodes of axilla and upper limb	188547001	289643015	32
+289599013	30	B6017	B601700	Lymphosarcoma of spleen	188506004	289599013	32
+289826016	30	B62x5	B62x500	Malignant immunoproliferative small intestinal disease	188691005	289826016	32
+1815251000006112	50	B62A	B62A.00	Sarcoma of dendritic cells	446643000	3036602014	32
+289713010	700	B62	B62..00	Other malignant neoplasm of lymphoid and histiocytic tissue	277606000	414231017	32
+826261000006110	400	B613	B613.00	Hodgkin's disease, lymphocytic-histiocytic predominance	118607005	177026017	32
+826951000006115	300	B6131	B613100	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck	188554007	289650016	32
+289659015	40	B613z	B613z00	Hodgkin's, lymphocytic-histiocytic predominance NOS	118607005	177026017	32
+826991000006114	30	B6130	B613000	Hodgkin's disease, lymphocytic-histiocytic predominance (clinical)	118607005	177026017	32
+826911000006116	40	B6135	B613500	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb	188559002	289655014	32
+826931000006110	40	B6136	B613600	Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes	93494007	154776018	32
+826941000006117	30	B6132	B613200	Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes	93495008	154777010	32
+826921000006112	10	B6133	B613300	Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes	93493001	154775019	32
+289657018	5	B6137	B613700	Hodgkin's disease, lymphocytic-histiocytic predominance of spleen	93500006	154785018	32
+826961000006118	10	B6138	B613800	Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites	188562004	289658011	32
+414253015	900	B6279-1	B627911	Maltoma	277622004	414253015	32
+344820010	200000	B630	B630.00	Multiple myeloma	109989006	344820010	32
+225051000006119	7000	B6302	B630200	Plasmacytoma	415112005	2534490012	32
+344819016	1000	B630-2	B630.12	Myelomatosis	109989006	344819016	32
+139571000006117	2000	B6301	B630100	Solitary myeloma	415112005	2534490012	32
+457317011	5000	B6303	B630300	Lambda light chain myeloma	313427003	457317011	32
+289867014	900	B6300	B630000	Malignant plasma cell neoplasm, extramedullary plasmacytoma	188718006	289867014	32
+18484012	200	B6304	B630400	Plasmacytoma - disorder	415112005	2537380010	32
+344818012	100	B630-1	B630.11	Kahler's disease	109989006	344818012	32
+201652012	100000	B641	B641.00	Chronic lymphoid leukaemia	92814006	201652012	32
+201612010	60000	B650	B650.00	Acute myeloid leukaemia	91861009	201612010	32
+201656010	40000	B651	B651.00	Chronic myeloid leukaemia	92818009	201656010	32
+289972016	4000	B68z	B68z.00	Leukaemia	93143009	154099013	32
+509741017	30000	B640	B640.00	Acute lymphoid leukaemia	91857003	509741017	32
+289892012	5000	B65	B65..00	Myeloid leukaemia	188732008	289892012	32
+289875015	3000	B64-1	B64..11	Lymphatic leukaemia	188725004	289875015	32
+289876019	4000	B64	B64..00	Lymphoid leukaemia	188725004	289876019	32
+555131000006118	30000	B641-1	B641.11	Chronic lymphoid leukaemia, disease	92814006	1207831017	32
+311021000006113	1000	BBr	BBr..00	Leukaemia morphology	87163000	1217045015	32
+289964018	4000	B680	B680.00	Acute leukaemia	91855006	201610019	32
+1216729017	3000	BBrA4	BBrA400	[M]Hairy cell leukaemia	54087003	1216729017	32
+289963012	2000	B68	B68..00	Leukaemia of unspecified cell type	93143009	154099013	32
+474077018	6000	B691	B691.00	Chronic myelomonocytic leukaemia	127225006	474077018	32
+289967013	1000	B681	B681.00	Chronic leukaemia	92812005	201651017	32
+1591211000006111	3000	B624-2	B624.12	Hairy cell leukaemia	118613001	2764402015	32
+459741000006115	2000	B65y1	B65y100	APL - Acute promyelocytic leukaemia	110004001	1215869018	32
+1216160012	2000	BBr01	BBr0100	[M]Acute leukaemia NOS	24072005	1216160012	32
+289974015	1000	B69	B69..00	Myelomonocytic leukaemia	188768003	289974015	32
+554641000006115	600	B651-1	B651.11	Chronic granulocytic leukaemia	92818009	1217279014	32
+289923011	900	B661	B661.00	Chronic monocytic leukaemia	188745007	289923011	32
+289934014	4000	B67	B67..00	Other specified leukaemia	93143009	154099013	32
+414008012	5000	B6410	B641000	B-cell chronic lymphocytic leukaemia	277473004	414008012	32
+1216940017	1000	BBr27	BBr2700	[M]Adult T-cell leukaemia/lymphoma	77430005	1216940017	32
+414160018	6000	B6400	B640000	B-cell acute lymphoblastic leukaemia	277571004	414160018	32
+201743012	700	B631	B631.00	Plasma cell leukaemia	95210003	201743012	32
+202801000006110	400	B64y1	B64y100	Prolymphocytic leukaemia	110006004	2765132011	32
+306921000006118	400	BBr03	BBr0300	Chronic leukaemia (category)	128933000	474680016	32
+291985019	1000	BBrz	BBrz.00	[M]Leukaemia NOS	128931003	207615015	32
+289900013	800	B651z	B651z00	Chronic myeloid leukaemia NOS	92818009	201656010	32
+1216346016	100	BBr67	BBr6700	[M]Acute myelomonocytic leukaemia	30962008	1216346016	32
+292006015	2000	BBr21	BBr2100	Acute lymphoblastic leukaemia - category	413440007	2535405016	32
+306931000006115	900	BBr23	BBr2300	Chronic lymphoid leukaemia	51092000	495910011	32
+289889013	200	B64z	B64z.00	Lymphoid leukaemia NOS	188725004	289876019	32
+456641000006119	50	B670	B670.00	Acute erythraemia and erythroleukaemia	93451002	154686014	32
+304401000006111	900	BBr61	BBr6100	Acute myeloid leukaemia	17788007	478421017	32
+309521000006115	400	BBr60-1	BBr6011	[M]Granulocytic leukaemia NOS	37810007	1216572014	32
+289885019	500	B64y2	B64y200	Adult T-cell leukaemia	188729005	289885019	32
+292032014	200	BBr6	BBr6.00	[M]Myeloid leukaemias	128934006	207618018	32
+289960010	700	B67z	B67z.00	Other specified leukaemia NOS	93143009	154099013	32
+2534415018	400	B660	B660.00	Acute monocytic leukaemia	413441006	2534415018	32
+2233381000000115	2000	B6411	B641100	Clinical stage A chronic lymphocytic leukaemia	863741000000108	2233381000000115	32
+289917018	70	B66	B66..00	Monocytic leukaemia	188744006	289917018	32
+1216284012	200	BBr66	BBr6600	[M]Acute promyelocytic leukaemia	28950004	1216284012	32
+289912012	50	B65z	B65z.00	Myeloid leukaemia NOS	188732008	289892012	32
+311311000006115	100	BBr20-1	BBr2011	[M]Lymphatic leukaemia	32280000	1216396015	32
+289971011	30	B68y	B68y.00	Other leukaemia of unspecified cell type	93143009	154099013	32
+306971000006117	1000	BBr68	BBr6800	Chronic myelomonocytic leukaemia	128831004	474620018	32
+1216809013	800	BBr63	BBr6300	[M]Chronic myeloid leukaemia	63364005	1216809013	32
+289881011	200	B64y	B64y.00	Other lymphoid leukaemia	188725004	289876019	32
+289888017	100	B64yz	B64yz00	Other lymphoid leukaemia NOS	188725004	289876019	32
+292018012	100	BBr4	BBr4.00	Erythroleukaemia	93451002	154686014	32
+310991000006116	500	BBr00	BBr0000	[M]Leukaemia NOS	128931003	207615015	32
+292005016	90	BBr2	BBr2.00	[M]Lymphoid leukaemias	128935007	207619014	32
+1216396015	70	BBr20	BBr2000	[M]Lymphoid leukaemia NOS	32280000	1216396015	32
+289904016	200	B6531	B653100	Granulocytic sarcoma	188738007	289904016	32
+292178015	60	ByuD6	ByuD600	[X]Other myeloid leukaemia	188732008	289892012	32
+292177013	60	ByuD5	ByuD500	[X]Other lymphoid leukaemia	188725004	289876019	32
+306011000006113	200	BBr01-2	BBr0112	[M]Blastic leukaemia	24072005	1216160012	32
+1815601000006111	200	B64y5	B64y500	Adult T-cell leukaemia/lymphoma	110007008	345042017	32
+2168681000000113	900	B6410-1	B641011	Chronic lymphocytic leukaemia of B-cell type	277473004	2168681000000113	32
+1815651000006110	700	B654	B654.00	AML - Acute myeloblastic leukaemia	91861009	2536482014	32
+289955011	60	B67y	B67y.00	Other and unspecified leukaemia	93143009	154099013	32
+458201000006115	400	B690	B690.00	M4 - Acute myelomonocytic leukaemia	110005000	1215872013	32
+306171000006115	100	BBr26	BBr2600	[M]Burkitt's cell leukaemia	22197008	481253013	32
+2233421000000112	300	B6412	B641200	Clinical stage B chronic lymphocytic leukaemia	863761000000109	2233421000000112	32
+289948014	6	B672-1	B672.11	Thrombocytic leukaemia	188754005	289948014	32
+306001000006110	20	BBr01-1	BBr0111	[M]Blast cell leukaemia	24072005	1216160012	32
+292073010	50	BBrA5	BBrA500	[M]Acute megakaryoblastic leukaemia	52220008	86902018	32
+289949018	10	B672	B672.00	Megakaryocytic leukaemia	188754005	289949018	32
+1216572014	100	BBr60	BBr6000	[M]Myeloid leukaemia NOS	37810007	1216572014	32
+292182018	100	ByuD8	ByuD800	[X]Other specified leukaemias	93143009	154099013	32
+1815631000006115	300	B6511	B651100	Philadelphia chromosome positive chronic myelogenous leukaemia	449108003	2901809010	32
+474604011	90	B6513	B651300	Philadelphia chromosome negative chronic myelogenous leukaemia	449386007	2899857015	32
+289911017	20	B65yz	B65yz00	Other myeloid leukaemia NOS	188732008	289892012	32
+289895014	300	B6510	B651000	Chronic eosinophilic leukaemia	188733003	289895014	32
+289959017	10	B67yz	B67yz00	Other and unspecified leukaemia NOS	93143009	154099013	32
+291984015	40	BBr0	BBr0.00	[M]Leukaemias unspecified	128931003	207615015	32
+1216015014	50	BBr25	BBr2500	[M]Prolymphocytic leukaemia	128923008	1216015014	32
+414151014	300	B64y4	B64y400	T-cell prolymphocytic leukaemia	277567002	414151014	32
+289901012	300	B652	B652.00	Subacute myeloid leukaemia	188736006	289901012	32
+289919015	100	B66-2	B66..12	Monoblastic leukaemia	188744006	289919015	32
+289933015	8	B66z	B66z.00	Monocytic leukaemia NOS	188744006	289917018	32
+292014014	9	BBr3	BBr3.00	[M]Plasma cell leukaemias	128922003	207603019	32
+2233461000000116	100	B6413	B641300	Clinical stage C chronic lymphocytic leukaemia	863781000000100	2233461000000116	32
+414248013	40	B64y3	B64y300	B-cell prolymphocytic leukaemia	277619001	414248013	32
+414220013	40	B663	B663.00	Acute monoblastic leukaemia	277601005	414220013	32
+289968015	10	B682	B682.00	Subacute leukaemia	302855005	444829010	32
+2871720012	40	B693	B693.00	Juvenile myelomonocytic leukaemia	445227008	2871720012	32
+317011000006112	20	BBr01-3	BBr0113	[M]Stem cell leukaemia	24072005	1216160012	32
+291995014	90	BBr0z	BBr0z00	[M]Leukaemia unspecified, NOS	128931003	207615015	32
+292046014	30	BBr8	BBr8.00	[M]Eosinophilic leukaemias	190055003	292048010	32
+289880012	60	B642	B642.00	Subacute lymphoid leukaemia	188726003	289880012	32
+716871000006112	4	B673	B673.00	Mast cell leukaemia	110002002	2765332017	32
+731621000006113	9	B67y0	B67y000	Lymphosarcoma cell leukaemia	188725004	289876019	32
+1870401000006113	10	BBr69	BBr6900	Juvenile myelomonocytic leukaemia	128832006	474621019	32
+292041016	2	BBr6z	BBr6z00	[M]Other myeloid leukaemia NOS	128934006	207618018	32
+312961000006113	5	BBr90	BBr9000	[M]Monocytic leukaemia NOS	87163000	144534015	32
+292077011	10	BBrAz	BBrAz00	[M]Miscellaneous leukaemia NOS	128931003	207615015	32
+289898011	200	B6512	B651200	Chronic neutrophilic leukaemia	188734009	289898011	32
+289921013	3	B66-1	B66..11	Histiocytic leukaemia	188744006	289921013	32
+289924017	10	B662	B662.00	Subacute monocytic leukaemia	188746008	289924017	32
+289926015	100	B66y	B66y.00	Other monocytic leukaemia	188744006	289917018	32
+289930017	2	B66yz	B66yz00	Other monocytic leukaemia NOS	188744006	289917018	32
+476225016	8	B676	B676.00	Erythroleukemia, FAB M6	93451002	154686014	32
+289980011	4	B692	B692.00	Subacute myelomonocytic leukaemia	188770007	289980011	32
+291988017	1	BBr02	BBr0200	[M]Subacute leukaemia NOS	128931003	207615015	32
+291992012	3	BBr04	BBr0400	[M]Aleukaemic leukaemia NOS	128931003	207615015	32
+292017019	200	BBr3z	BBr3z00	Plasma cell leukaemia	128922003	474671016	32
+1216029010	30	BBr40	BBr4000	Erythroleukaemia	93451002	154686014	32
+292024018	3	BBr4z	BBr4z00	[M]Erythroleukaemia NOS	14317002	24346014	32
+292035011	7	BBr62	BBr6200	[M]Subacute myeloid leukaemia	128934006	207618018	32
+313621000006115	2	BBr63-1	BBr6311	[M]Naegeli-type monocytic leukaemia	63364005	1216809013	32
+1216868019	2	BBr70	BBr7000	[M]Basophilic leukaemia	69077002	1216868019	32
+308041000006113	6	BBr80	BBr8000	[M]Eosinophilic leukaemia	190055003	292048010	32
+292050019	30	BBr8z	BBr8z00	Eosinophilic leukaemia	190055003	292048010	32
+292065018	2	BBrA	BBrA.00	[M]Miscellaneous leukaemias	128931003	207615015	32
+312211000006119	1	BBrA1	BBrA100	Acute megakaryoblastic leukaemia	52220008	86902018	32
+317571000006112	2	BBrA1-1	BBrA111	[M]Thrombocytic leukaemia	52220008	86902018	32
+292181013	1	ByuD7	ByuD700	[X]Other monocytic leukaemia	188744006	289917018	32
+292185016	90	ByuD9	ByuD900	[X]Other leukaemia of unspecified cell type	93143009	154099013	32
+745011000006112	700	B624-1	B624.11	Leukaemic reticuloendotheliosis	118613001	1215903015	32
+745001000006114	600	B624	B624.00	Leukaemic reticuloendotheliosis	118613001	1215903015	32
+201658011	5	B670-1	B670.11	Di Guglielmo's disease	93451002	154686014	32
+344846014	800	B675	B675.00	Acute myelofibrosis	109991003	344846014	32
+133678011	20	B674	B674.00	Acute panmyelosis	109991003	2532080014	32
+289903010	40	B6530	B653000	Chloroma	188737002	289903010	32
+289773015	9	B624z	B624z00	Leukaemic reticuloendotheliosis NOS	118613001	1215903015	32
